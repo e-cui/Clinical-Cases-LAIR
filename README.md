@@ -1,4 +1,4 @@
-# LAIR---Clinical-Cases
+# Clinical Cases for LAIR
 
 This is a github page to host clinical cases being developed in LAIR. Each case is a seperate jupyter notebook file. Notebooks can be run through [Binder](https://mybinder.readthedocs.io/en/latest/). To access the different cases, please use the link below. 
 
