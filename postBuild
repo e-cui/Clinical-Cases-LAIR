@@ -9,3 +9,5 @@ jupyter nbextension enable splitcell/splitcell
 jupyter nbextension enable tree-filter/index
 jupyter nbextension enalbe move_selected_cells/main
 jupyter labextension install @jupyter-widgets/jupyterlab-manager@0.38
+wget -q -O h129.csv "https://drive.google.com/file/d/1Ee0S0OVTl8PJ8RMw_MLrXYQhguuydtNR/view?usp=sharing"
+
