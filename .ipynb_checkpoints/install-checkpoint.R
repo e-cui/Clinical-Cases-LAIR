@@ -5,5 +5,5 @@ install.packages("caret")
 install.packages("forcats")
 install.packages("cowplot")
 install.packages("e1071")
-install.packages("pROC")
+install.packages("plotROC")
 
