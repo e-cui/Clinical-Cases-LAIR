@@ -8,7 +8,8 @@ jupyter nbextension enable scroll_down/main
 jupyter nbextension enable rubberband/main
 jupyter nbextension enable splitcell/splitcell
 jupyter nbextension enable tree-filter/index
-jupyter nbextension enalbe move_selected_cells/main
+jupyter nbextension enable move_selected_cells/main
+jupyter nbextension enable execute_time/ExecuteTime
 jupyter labextension install @jupyter-widgets/jupyterlab-manager@0.38
 wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1Ee0S0OVTl8PJ8RMw_MLrXYQhguuydtNR' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1Ee0S0OVTl8PJ8RMw_MLrXYQhguuydtNR" -O cases/data/h129.csv && rm -rf /tmp/cookies.txt
 
