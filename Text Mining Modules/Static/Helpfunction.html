@@ -1,0 +1,157 @@
+			<body>
+				<h1>Help functions</h1>
+				<div>
+                    <h2>Data Preprocessing Function</h2>
+                    <h3><code>remove_special_characters(text, remove_digits=False)</code></h3>
+                    <ul>
+                        Remove characters except a-zA-Z0-9 and blank space
+                        <li>:param 
+                            <ul>
+                                <li>text: str, the string text to remove special characters</li>
+                                <li>remove_digits: bool, if True the digits will be removed. Default is False</li>
+                            </ul>
+                        <li>:return: str, preprocessed text</li>                
+                    </ul>
+                    <h3><code>remove_stopwords(text, is_lower_case=False)</code></h3>
+                    <ul>
+                        Remove stopwords
+                        <li>:param 
+                            <ul>
+                                <li>text: str, the string text to remvoe stopwords</li>
+                                <li>is_lower_case: bool, if True the characters will be lowercased. Default is False</li>
+                            </ul>
+                        <li>:return: str, preprocessed text</li>                
+                    </ul>
+                    <h3><code>simple_stemmer(text)</code></h3>
+                    <ul>
+                        Stem string
+                        <li>:param 
+                            <ul>
+                                <li>text: str, the string text to stem</li>
+                            </ul>
+                        <li>:return: str, preprocessed text</li>                
+                    </ul>
+                    <h3><code>lemmatize_text(text)</code></h3>
+                    <ul>
+                        Lemmatize string
+                        <li>:param 
+                            <ul>
+                                <li>text: str, the string text to lemmatize</li>
+                            </ul>
+                        <li>:return: str, preprocessed text</li>                
+                    </ul>
+                    <h3><code>expand_contractions(text)</code></h3>
+                    <ul>
+                        expand contractions in text string
+                        <li>:param 
+                            <ul>
+                                <li>text: str, the string text to expand contractions, e.g., I'm - I am</li>
+                            </ul>
+                        <li>:return: str, preprocessed text</li>                
+                    </ul>
+                </div>
+				
+				
+                <div>
+					<h2>Data Exploration Function</h2>
+					
+                    <h3><code>freq_ngram(document, N = 1, allgram = False, top_count = 20)</code></h3>
+                    <ul>
+                        Get N-gram frequency
+                        <li>:param 
+                            <ul>
+                                <li>document: Series or list, the Series or list of the string text. 
+									<br>You can sumply put the string column to this part such as df["text"] <br>
+								</li>
+                                <li>N: int, type of gram you want to look at, bi-gram then use N=2</li>
+                                <li>allgram: bool, if True, all types of n-gram will be counted, default is False. <br>e.g., if allgram=3 
+                                    the uni-gram, bi-gram and tri-gram will all be counted</br></li>
+                            </ul>
+                        <li>:return: dataframe, datafame with word, count and frequency among all words as column name</li>                
+                    </ul>
+                    
+                    <h3><code>viz_ngram_freq(df, figsize = (8,8))</code></h3>
+                    <ul>
+                        Using barchart to plot the term frequency after using freq_ngram()
+                        <li>:param 
+                            <ul>
+                                <li>df: dataframe, the table that contains word and corresponding counts</li>
+                                <li>figsize: tuple, (width, height) size of the figure, default is (8,8)</li>
+                            </ul>
+                        </li>              
+                    </ul>
+
+                </div>
+
+                <div>
+                    <h2>Information Extraction</h2>
+					<p>
+						This class provides you a handle to extract information from text. 
+						Code example: <br>
+						<br>
+							<code>extractor = ExtactInfo()</code><br>
+							<code>extractor. start_extract(document)</code><br>
+							<code>postag = extractor.get_postag()</code><br>
+							<code>noun_phrase = extractor.get_noun_phrase()</code><br>
+						<br>
+						The following funcitons should be used in this way: <br>
+						<code>extractor.somefunction()</code><br>
+						
+					</p>
+                    <h3><code>start_extract(document)</code></h3>
+                    <ul>
+                        Feed the extractor with the document. This function should be used prior to any of the following function. 
+                        <li>:param 
+                            <ul>
+                                <li>documnet: Series or list, the Series or list of the string text. <br>You can sumply put the string column to this part such as df["text"] <br></li>
+                             </ul>             
+						</li> 
+					</ul>
+                    
+                    <h3><code>get_postag(postagtype = "univ")</code></h3>
+                    <ul>
+                        Compute similarity between two documents
+                        <li>:param 
+                            <ul>
+                                <li>postagtype: str, the types of pos tags to use. It can be "univ" (Universal postags) or "penn" (Penn treebank postags). default is univ. 
+								</li>
+                            </ul>
+                        </li>
+						<li>:return: dataframe, a table that contain pos tags count of each document</li>  						
+                    </ul>
+					<h3><code>get_noun_phrase()</code></h3>
+                    <ul>
+                        Get noun phrases in each document
+						<li>:return: list, will return a list of the noun phrase list of each document</li>  						
+                    </ul>
+                </div>				
+
+                <div>
+                    <h2>Vector Representation of Text</h2>
+                    <h3><code>create_bow_matrix(document, tfidf = True)</code></h3>
+                    <ul>
+                        Create bag-of-word vectors for text
+                        <li>:param 
+                            <ul>
+                                <li>documnet: Series or list, the Series or list of the string text. <br>You can sumply put the string column to this part such as df["text"] <br></li>
+                                <li>tfidf: bool, if True, the vector will be weighted using tfidf method. Default is True.</li>
+                             </ul>
+                        <li>:return: dataframe, a table where each row is a document and each column is a word. The value is the tfidf weighted value </li>                
+                    </ul>
+                    
+                    <h3><code>get_text_similarity(doc_a, doc_b, method = "cosine")</code></h3>
+                    <ul>
+                        Compute similarity between two documents
+                        <li>:param 
+                            <ul>
+                                <li>doc_a, doc_b: Series, list or string, two texts you want to compare. 
+									<br>e.g., you can input ["I love puppies", "I am not a fan of tomato"], ["Puppies grow quickly after birth", "I love basketball"]
+									<br>you can also input"I love puppies. I am not a fan of tomato", "Puppies grow quickly after birth. I love basketball"
+								</li>
+                                <li>method: str, "cosine" or "euclidean". Default is cosine</li>
+                            </ul>
+                        </li>
+						<li>:return: dataframe, a table that contain pairwise similarity score of the input text</li>  						
+                    </ul>
+                </div>
+			</body>
