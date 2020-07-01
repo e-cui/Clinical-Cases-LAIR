@@ -47,3 +47,13 @@ library(mlbench)
 library(caret)
 library(randomForest)
 
+# Module 5
+install.packages("rpart")
+install.packages("rpart.plot")
+install.packages("pROC")
+install.packages("caret")
+library(rpart)
+library(rpart.plot)
+library(pROC)
+library(caret)
+
