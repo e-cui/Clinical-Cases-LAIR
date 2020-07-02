@@ -154,4 +154,54 @@
 						<li>:return: dataframe, a table that contain pairwise similarity score of the input text</li>  						
                     </ul>
                 </div>
+
+                <div>
+                    <h2>Classification Prediction</h2>
+					<p>This class provides you a handle to do data classification tasks (Not only limited to text data)
+						Code example: <br>
+						<br>
+							<code>cls_model = classifier()</code><br>
+							<code>cls_model.fit_model(x_train, y_train)</code><br>
+							<code>y_pred = cls_model.predict(x_test, y_test)</code><br>
+						<br>					
+						This class can be used after text preprocessing and vectorization. <br>
+						Pipeline: preprocessing --> vector presentation of text --> classifier(). 
+						There are some useful resources for the text presentation and prediction tasks using <a href="https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html">sklearn</a>.  
+					</p>
+                    <h3><code>fit_model(x_train, y_train, 
+									  method = "kn", 
+									  score_func = 'chi2', 
+									  see_tuning = False)</code></h3>
+                    <ul>
+                        Fit model with training dataset. This fit() will help you train the dataset. <br>
+						You can specify how to construct the classification model by setting "method", "score_func", "see_tuning". <br>
+						This function will do <a href=https://scikit-learn.org/stable/modules/grid_search.html>fine-tuning</a> and feature-selection (as you learned in Module5) automatically for you. <br>
+                        <li>:param 
+                            <ul>
+                                <li>x_train: dataframe or ndarray. This is the training input samples. The input should be numeric data, rather than textual data. <br>
+									This means the text feature vectorization is required prior to this stage. For example using the method in 5th module<br>
+									<code>x_train = CountVectorizer().fit_transform(text_data_frame_input_X)</code><br></li>
+                                <li>y_train: dataframe or ndarray, The target values (class labels in classification e.g., [True, False, False, ...., False]</li>
+								<li>method: str, you can specify which machine learning method you want to use, "kn"(KNeighbors) <br>
+										or "logistic"(Logistic regression) as you learned in module 5. Default is "kn". </li>
+								<li>score_func: str, feature selection method. Default is "chi2"</li>
+								<li>see_tuning: bool. If you want to see fine-tuning process. This will give you the best parameter combination<br>
+								     and its prediction accuracy based on training dataset. Default is False</li>
+                             </ul>  
+						</li>
+                    </ul>
+                    
+                    <h3><code>predict(x_test, y_test)</code></h3>
+                    <ul>
+                        Predict classification labels with the given testing dataset. The accuracy score will be printed. 
+                        <li>:param 
+                            <ul>
+                                <li>x_test: dataframe or ndarray. This is the testing input samples. This is normally derived using <code>train_test_split </code> along with training set.<br>
+									e.g., <code>X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)</code><br></li>
+                                <li>y_test: dataframe or array, The target values in testing section</li>
+                            </ul>
+                        </li>
+						<li>:return: ndarray, predict result</li>  						
+                    </ul>
+                </div>
 			</body>
