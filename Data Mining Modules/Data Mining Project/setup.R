@@ -57,3 +57,36 @@ library(rpart.plot)
 library(pROC)
 library(caret)
 
+# Create function to test models
+test_model <- function(features){
+  # Build the model on training data
+  cat('Training model, please be patient...\n')
+  total_variables <- append(features, 'hospital_death')
+  play_trainingData <- subset(trainingData,select = total_variables)
+  play_testData <- subset(testData,select = total_variables)
+  suppressMessages(attach(trainingData))
+  mylogit <- suppressWarnings(train(hospital_death~., data = play_trainingData, method = 'glm', family = 'binomial',na.action=na.omit))
+  detach(trainingData)
+  
+  cat('Model trained!\n')
+  # Apply the model to test data
+  modelPred.na <- predict(mylogit, newdata = play_testData, method = "glm", na.action = na.pass)
+  
+  cat('Model successfully applied to test data!\n')
+  
+  # Create Confusion matrix
+  cm <- confusionMatrix(modelPred.na, play_testData$hospital_death)
+  
+  # Create a ROC curve
+  ROC <- roc(response =play_testData$hospital_death, predictor = factor(modelPred.na, 
+                                                                        ordered = TRUE, 
+                                                                        levels = c('0', '1')))
+  # Plot ROC with ggplot2
+  plot_ROC <- ggroc(ROC)
+  
+  # Calculate the area under the curve (AUC)
+  test <- varImp(mylogit)
+}
+
+
+
