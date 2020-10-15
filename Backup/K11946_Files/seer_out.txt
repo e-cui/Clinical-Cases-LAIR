@@ -1,0 +1,423 @@
+00.65 014267 Kaposi sarcoma                                         
+00.64 000137 Adenocarcinoma with neuroendocrine differen.           
+01.60 000963 Refractory anemia with excess blasts                   
+00.81 004179 Follicular adenocarcinoma, NOS                         
+00.28 000069 Hypereosinophilic syndrome                             
+01.69 001934 Chronic myelomonocytic leukemia, NOS                   
+00.68 000050 Adenocarc. in situ in mult. adenomatous polyps         
+01.05 000119 Sezary syndrome                                        
+01.33 000151 Fibrous meningioma                                     
+00.54 000778 Embryonal rhabdomyosarcoma                             
+01.51 001833 Acute monocytic leukemia                               
+00.93 000354 Acute myeloid leukemia, minimal differentiation        
+00.62 017069 Carcinoid tumor, malignant                             
+00.51 000051 Prolymphocytic leukemia, T-cell type                   
+01.20 000155 Adenocarcinoma in mult. adenomatous polyps             
+00.85 001286 Teratoma, malignant, NOS                               
+04.35 010298 Seminoma, NOS                                          
+00.27 000248 Cyst-associated renal cell carcinoma                   
+01.17 000292 Follicular carcinoma, minimally invasive               
+00.62 000056 Telangiectatic osteosarcoma                            
+00.88 001666 Linitis plastica                                       
+01.20 000474 Basaloid carcinoma                                     
+02.88 002594 Mixed germ cell tumor                                  
+00.77 001072 Spindle cell sarcoma                                   
+00.28 000026 Pulmonary blastoma                                     
+00.93 000106 Papillary squamous cell carcinoma, non-invasive        
+00.82 000288 Comb. hepatocel. carcinoma & cholangiocarcinoma        
+00.36 000035 Embryonal sarcoma                                      
+00.88 000101 Acute myeloid leukemia, t(8;21)(q22;q22)               
+00.87 000343 Adenocarcinoid tumor                                   
+01.23 000225 Transitional meningioma                                
+00.41 000035 Choroid plexus papilloma, NOS                          
+00.51 000486 Sq. cell carcinoma, keratinizing, NOS, in situ         
+00.62 000809 Papillary squamous cell carcinoma                      
+00.79 000357 Pseudosarcomatous carcinoma                            
+02.06 003134 Mantle cell lymphoma                                   
+00.70 000058 Hodgkin lymph., lymphocyt. deplet., diffuse fibrosis   
+00.47 000085 Craniopharyngioma                                      
+01.80 000310 Gliosarcoma                                            
+03.28 000818 Basal cell carcinoma, NOS                              
+00.50 023828 Sq. cell carcinoma, keratinizing, NOS                  
+00.30 000048 Desmoplastic small round cell tumor                    
+00.80 000087 Basal cell adenocarcinoma                              
+00.58 000085 Sq. cell carc. in situ with question. stromal invas.   
+00.19 000017 Primary effusion lymphoma                              
+00.40 000531 Hodgkin lymph., nodular lymphocyte predom.             
+00.69 005757 Infiltr. duct mixed with other types of carcinoma, in s
+00.53 000443 Noninfiltrating intracystic carcinoma                  
+00.65 003938 Sq. cell carcinoma, micro-invasive                     
+00.86 000062 Choroid plexus papilloma, malignant                    
+00.47 000977 Thymoma, malignant, NOS                                
+08.60 000860 Paget disease, extramammary                            
+00.70 003044 Infiltr. duct mixed with other types of carcinoma      
+00.57 000533 Intracystic carcinoma, NOS                             
+05.33 001140 Ewing sarcoma                                          
+01.71 001309 Papillary cystadenocarcinoma, NOS                      
+01.02 000093 Thymoma, type B3, malignant                            
+01.08 000824 Acute myeloid leukemia, M6 type                        
+01.08 000726 Papillary microcarcinoma                               
+03.64 000271 Mesothelioma, biphasic, malignant                      
+01.44 000287 Malignant histiocytosis                                
+00.76 000986 Plasmacytoma, NOS                                      
+01.05 000392 Alveolar adenocarcinoma                                
+01.57 000130 Burkitt cell leukemia                                  
+00.71 001819 Neuroblastoma, NOS                                     
+00.85 000387 Mixed tumor, malignant, NOS                            
+00.68 000115 Ganglioglioma, NOS                                     
+00.76 010341 Carcinoma, undifferentiated type, NOS                  
+00.56 003593 Tumor cells, malignant                                 
+01.45 000132 Adenocarcinoma, endocervical type                      
+00.32 000120 Gastrinoma, malignant                                  
+00.96 000097 Protoplasmic astrocytoma                               
+01.05 001365 Liposarcoma, NOS                                       
+00.30 000028 Thecoma, malignant                                     
+00.37 000107 Alveolar soft part sarcoma                             
+01.08 001679 Small cell carcinoma, intermediate cell                
+05.94 000422 Epithelioid cell melanoma                              
+01.25 004512 ML, large B-cell, diffuse, immunoblastic, NOS          
+00.85 000441 Hodgkin lymphoma, nod. scler., grade 1                 
+00.98 000148 Mixed type liposarcoma                                 
+00.56 007708 Medullary carcinoma, NOS                               
+00.66 000904 Lymphoepithelial carcinoma                             
+01.53 000220 Splenic marginal zone B-cell lymphoma                  
+01.74 001076 Mixed glioma                                           
+00.44 000848 Choriocarcinoma                                        
+01.07 001042 Serous cystadenoma, borderline malignancy (C56.9)      
+01.04 001283 Essential thrombocythemia                              
+00.19 000258 Adenoma, NOS                                           
+01.19 047599 Mucinous adenocarcinoma                                
+01.39 002906 Serous surface papillary carcinoma                     
+00.67 000573 Synovial sarcoma, NOS                                  
+01.49 000306 Prolymphocytic leukemia, NOS                           
+00.91 003441 Adenoid cystic carcinoma                               
+00.66 004252 Meningioma, NOS                                        
+00.48 000239 Chondroblastic osteosarcoma                            
+01.61 006788 Adenocarcinoma in situ                                 
+03.17 000508 Skin appendage carcinoma                               
+02.25 001688 Waldenstrom macroglobulinemia                          
+00.90 1061343 Adenocarcinoma, NOS                                    
+00.90 000719 Germinoma                                              
+00.86 000310 Chronic myelogenous leukemia, BCR/ABL positive         
+01.26 000772 Villous adenocarcinoma                                 
+00.91 000293 Goblet cell carcinoid                                  
+00.48 000140 Precursor T-cell lymphoblastic leukemia                
+32.93 024502 Melanoma in situ                                       
+00.98 000650 Papillary carcinoma in situ                            
+00.60 000919 Meningioma, malignant                                  
+01.09 000316 Hepatoblastoma                                         
+00.50 000799 Mesodermal mixed tumor                                 
+00.26 000078 Collecting duct carcinoma                              
+13.07 051617 Malignant melanoma, NOS                                
+00.71 001084 Giant cell carcinoma                                   
+00.79 029952 Large cell carcinoma, NOS                              
+02.05 003692 Follicular lymphoma, NOS                               
+01.29 001361 ML, lymphoplasmacytic                                  
+01.07 004497 Hodgkin lymphoma, mixed cellularity, NOS               
+00.62 001333 Carcinoma, diffuse type                                
+02.16 020749 Glioblastoma, NOS                                      
+01.05 001628 Pilocytic astrocytoma                                  
+01.65 022809 Papillary carcinoma, NOS                               
+00.70 000301 Epithelioid sarcoma                                    
+00.75 000059 Precursor B-cell lymphoblastic lymphoma                
+01.00 001106 Cutaneous T-cell lymphoma, NOS                         
+02.87 009266 Follicular lymphoma, grade 1                           
+00.26 000093 Ameloblastoma, malignant                               
+00.90 000940 Acral lentiginous melanoma, malig.                     
+00.78 000612 Sq. cell carcinoma, spindle cell                       
+01.36 000631 Paget disease, mammary                                 
+01.64 000906 Infiltrating ductular carcinoma                        
+00.59 000072 Secretory carcinoma of breast                          
+01.90 002003 Chondrosarcoma, NOS                                    
+00.64 000212 Myeloid sarcoma                                        
+03.64 000852 Sebaceous adenocarcinoma                               
+00.85 000971 Intraductal micropapillary carcinoma                   
+00.98 000077 Thymoma, type B1, malignant                            
+01.53 002659 Leukemia, NOS                                          
+01.05 000162 Hemangioendothelioma, malignant                        
+02.00 001486 Mucinous cystic tumor of borderline malignancy (C56.9) 
+00.84 000971 Granular cell carcinoma                                
+01.52 001952 Duct carcinoma in situ, solid type                     
+02.01 001441 Neurilemoma, NOS                                       
+02.93 000501 Fibrous mesothelioma, malignant                        
+05.66 003242 Embryonal carcinoma, NOS                               
+00.82 000516 Rhabdomyosarcoma, NOS                                  
+01.71 000261 Solid carcinoma, NOS                                   
+02.06 006577 Tubular adenocarcinoma                                 
+00.54 000120 Parosteal osteosarcoma                                 
+01.39 000112 Papillary carcinoma, columnar cell                     
+00.65 001274 Fibrosarcoma, NOS                                      
+00.69 000926 Plasmacytoma, extramedullary                           
+01.70 000321 Olfactory neuroblastoma                                
+01.31 002098 Acute myelomonocytic leukemia                          
+00.86 000728 Neurilemmoma, malignant                                
+00.95 000084 Neuroepithelioma, NOS                                  
+00.48 021477 Hepatocellular carcinoma, NOS                          
+01.41 017926 Oat cell carcinoma                                     
+00.99 000321 Malignant tumor, spindle cell type                     
+01.15 012359 Hodgkin lymphoma, nodular sclerosis, NOS               
+01.90 000550 Oligodendroglioma, anaplastic                          
+01.00 001209 Medulloblastoma, NOS                                   
+00.60 000496 Epithelioid leiomyosarcoma                             
+01.07 000122 Round cell liposarcoma                                 
+01.01 001714 Burkitt lymphoma, NOS                                  
+00.91 000101 Myxoid leiomyosarcoma                                  
+01.32 000321 Dedifferentiated liposarcoma                           
+03.71 004114 Adenocarcinoma with squamous metaplasia                
+00.40 000127 Atypical medullary carcinoma                           
+00.99 003471 Glioma, malignant                                      
+00.71 000727 Chronic myeloproliferative disease, NOS                
+00.97 000201 Myxoid chondrosarcoma                                  
+00.62 000124 Giant cell tumor of bone, malignant                    
+00.87 000131 Nodular hidradenoma, malignant                         
+01.34 001160 Cystadenocarcinoma, NOS                                
+01.02 000168 Peripheral neuroectodermal tumor                       
+00.84 000129 Brenner tumor, malignant                               
+00.48 000377 Metaplastic carcinoma, NOS                             
+00.99 000088 Refract. anemia with excess blasts in transformation   
+02.13 000171 Nonencapsulated sclerosing carcinoma                   
+00.85 000520 Follicular adenocarcinoma well diff.                   
+00.87 038632 Renal cell carcinoma                                   
+00.62 000169 Synovial sarcoma, biphasic                             
+00.72 001376 Mature T-cell lymphoma, NOS                            
+01.47 000138 Psammomatous meningioma                                
+05.03 001732 Teratocarcinoma                                        
+00.73 000952 Endometrial stromal sarcoma                            
+06.09 000630 Seminoma, anaplastic                                   
+01.82 000488 Acute myeloid leukemia without maturation              
+01.17 030066 Papillary adenocarcinoma, NOS                          
+01.16 000166 Enterochromaffin cell carcinoid                        
+01.25 009379 Precursor cell lymphoblastic leukemia, NOS             
+00.57 057750 Carcinoma in situ, NOS                                 
+00.59 000801 Renal cell carcinoma, chromophobe type                 
+01.22 003102 Myelodysplastic syndrome, NOS                          
+00.91 003271 Hodgkin lymphoma, NOS                                  
+00.89 186263 Carcinoma, NOS                                         
+01.02 000095 Myxosarcoma                                            
+00.73 000388 Giant cell sarcoma                                     
+02.65 000435 Klatskin tumor                                         
+00.60 000183 Superficial spreading adenocarcinoma                   
+01.37 001389 Cloacogenic carcinoma                                  
+01.38 008431 Astrocytoma, NOS                                       
+40.83 019950 Lentigo maligna                                        
+00.87 005630 Neuroendocrine carcinoma                               
+00.86 000388 Sq. cell carcinoma, lg. cell, non-ker., in situ        
+00.57 000203 Stromal sarcoma, NOS                                   
+00.98 037481 Intraductal carcinoma, noninfiltrating, NOS            
+30.62 007741 Lentigo maligna melanoma                               
+00.96 013497 Malignant lymphoma, NOS                                
+00.24 000037 Adamantinomatous craniopharyngioma                     
+00.94 000101 Pleomorphic xanthoastrocytoma                          
+01.10 347667 Infiltrating duct carcinoma, NOS                       
+00.64 008336 Sq. cell carcinoma, lg. cell, non-ker.                 
+00.81 025398 Squamous intraepithelial neoplasia, grade III          
+02.08 003577 Follicular lymphoma, grade 3                           
+00.84 000079 Papillary cystadenoma, borderline malignancy (C56.9)   
+00.67 000130 Epithelial-myoepithelial carcinoma                     
+01.50 001398 Paget disease and intraductal ca.                      
+02.99 000636 Chordoma, NOS                                          
+01.78 000556 Infiltrating lobular mixed with other types of carc.   
+01.11 001447 Ependymoma, NOS                                        
+01.42 003462 Mucinous cystadenocarcinoma, NOS                       
+00.75 000073 Prolactinoma                                           
+00.66 000096 Thymic carcinoma, NOS                                  
+01.11 000110 Epithelioid hemangioendothelioma, malignant            
+01.20 001905 Myeloid leukemia, NOS                                  
+03.10 002584 Papillary trans. cell carcinoma, non-invasive          
+01.20 001286 Mixed cell adenocarcinoma                              
+02.73 100623 Papillary trans. cell carcinoma                        
+00.50 037998 Multiple myeloma                                       
+01.75 029422 Endometrioid carcinoma                                 
+00.87 000220 Bronchiolo-alveolar carcinoma, non-mucinous            
+01.21 000177 Carcinoma in pleomorphic adenoma                       
+00.51 001507 Nephroblastoma, NOS                                    
+00.17 000137 Adult T-cell leukemia/lymphoma (HTLV-1 pos.)           
+00.32 000035 Centrol neurocytoma                                    
+01.44 038997 ML, large B-cell, diffuse                              
+01.32 001557 Oxyphilic adenocarcinoma                               
+01.10 004485 Carcinoma, anaplastic type, NOS                        
+00.83 000236 Malignant tumor, small cell type                       
+02.49 000473 Gemistocytic astrocytoma                               
+01.83 000182 Primary cutan. CD30+ T-cell lymphoprolif. disorder     
+02.10 000219 Astroblastoma                                          
+00.88 001075 Liposarcoma, well differentiated                       
+00.44 003762 Dermatofibrosarcoma, NOS                               
+00.50 000804 Granulosa cell tumor, malignant                        
+16.75 001357 Spindle cell melanoma, NOS                             
+00.86 000592 Combined small cell carcinoma                          
+00.67 003375 Inflammatory carcinoma                                 
+00.68 000513 Primitive neuroectodermal tumor                        
+00.77 000612 Basaloid squamous cell carcinoma                       
+01.78 000369 Sweat gland adenocarcinoma                             
+00.31 000098 Pineoblastoma                                          
+01.17 001601 Serous papillary cystic tumor of borderline malignancy 
+01.35 001434 Hemangiosarcoma                                        
+05.96 000569 Choriocarcinoma combined w/ other germ cell elements   
+01.18 000787 Refractory anemia with sideroblasts                    
+01.25 022535 Clear cell adenocarcinoma, NOS                         
+01.26 000202 Synovial sarcoma, spindle cell                         
+00.53 003537 Mycosis fungoides                                      
+00.42 000032 Adenocarcinoma in situ in familial polyp. coli         
+00.79 025787 Mucin-producing adenocarcinoma                         
+01.11 003227 Cribriform carcinoma in situ                           
+00.57 000352 Meningothelial meningioma                              
+02.10 000987 Dysgerminoma                                           
+00.73 000192 Adenocarcinoma in adenoma. polyposis coli              
+01.22 000925 Cribriform carcinoma                                   
+01.32 000104 Therapy-related myelodysplastic syndrome, NOS          
+00.68 000121 Fibroblastic osteosarcoma                              
+01.84 000141 Trans. cell carcinoma, spindle cell                    
+01.00 003170 Scirrhous adenocarcinoma                               
+00.71 003236 Sarcoma, NOS                                           
+00.81 006052 Adenocarcinoma in situ in tubulovillous adenoma        
+01.34 000276 Angioimmunoblastic T-cell lymphoma                     
+01.30 004935 Cholangiocarcinoma                                     
+00.68 000179 Mesenchymoma, malignant                                
+00.34 000035 Teratoma with malig. transformation                    
+00.65 000425 Adenosarcoma                                           
+01.32 000413 Acute myeloid leuk. with multilineage dysplasia        
+00.79 017548 Adenocarcinoma in tubulovillous adenoma                
+00.56 000145 Composite carcinoid                                    
+02.82 006068 Follicular lymphoma, grade 2                           
+01.32 000642 Hodgkin lymphoma, lymphocytic deplet., NOS             
+25.81 009096 Nodular melanoma                                       
+00.88 063774 Squamous cell carcinoma in situ, NOS                   
+01.52 001721 Verrucous carcinoma, NOS                               
+00.79 000829 Spindle cell carcinoma                                 
+00.90 000504 Large cell neuroendocrine carcinoma                    
+01.35 000180 Giant cell glioblastoma                                
+00.43 000132 Precursor T-cell lymphoblastic lymphoma                
+00.67 255232 Squamous cell carcinoma, NOS                           
+00.44 000039 Undifferentiated sarcoma                               
+00.69 000048 Leydig cell tumor, malignant                           
+00.46 000043 Sertoli-Leydig cell tumor, poorly differentiated       
+00.86 002930 Intraductal and lobular in situ carcinoma              
+00.75 003248 Noninfiltrating intraductal papillary adenocarcinoma   
+01.61 000110 Myxopapillary ependymoma                               
+01.38 023196 Infiltrating duct and lobular carcinoma                
+00.62 001124 Intraductal papillary adenocarcinoma with invasion     
+01.49 000159 Basosquamous carcinoma                                 
+00.85 011486 Adenosquamous carcinoma                                
+00.86 002265 Paget dis. & infil. duct carcinoma                     
+01.18 001608 Polycythemia vera                                      
+00.45 000112 Mesenchymal chondrosarcoma                             
+00.96 000097 Acute panmyelosis with myelofibrosis                   
+00.87 003917 Mucoepidermoid carcinoma                               
+01.03 001031 Lymphoid leukemia, NOS                                 
+01.37 003770 Acute leukemia, NOS                                    
+01.63 000112 Papillary mucinous cystadenoma, borderline malignancy (
+00.38 000159 Neoplasm, benign                                       
+01.26 010905 Papillary carcinoma, follicular variant                
+00.98 000365 Hemangiopericytoma, malignant                          
+01.02 000210 Neoplasm, uncertain whether benign or malignant        
+03.39 001336 Epithel. mesothelioma, mal.                            
+01.25 012269 Bronchiolo-alveolar adenocarcinoma                     
+00.83 000608 Yolk sac tumor                                         
+00.54 000353 Alveolar rhabdomyosarcoma                              
+00.50 000144 Pleomorphic rhabdomyosarcoma, adult type               
+00.92 010562 Chronic myeloid leukemia, NOS                          
+00.92 060043 Neoplasm, malignant                                    
+01.48 000969 Medullary carcinoma with amyloid stroma                
+00.63 000091 Langerhans cell histiocytosis, disseminated            
+01.15 005977 Fibrous histiocytoma, malignant                        
+00.84 000300 Fibromyxosarcoma                                       
+00.22 000024 Hepatosplenic gamma-delta cell lymphoma                
+00.60 000065 Malignant myoepithelioma                               
+00.65 000093 Malignant rhabdoid tumor                               
+00.84 001082 Adenocarcinoma with mixed subtypes                     
+00.23 000057 Granular cell tumor, malignant                         
+02.07 000187 Trabecular adenocarcinoma                              
+01.00 000107 Hepatocellular carcinoma, fibrolamellar                
+01.02 000552 Hodgkin lymphoma, nod. scler., cellular phase          
+11.55 000699 Mixed epithel. & spindle cell melanoma                 
+00.96 002741 Bowen disease                                          
+00.94 000103 Desmoplastic medulloblastoma                           
+01.14 000422 Pleomorphic liposarcoma                                
+00.51 000125 Paraganglioma, malignant                               
+00.94 000317 Ganglioneuroblastoma                                   
+00.41 000041 Ovarian stromal tumor, mal.                            
+01.22 000135 Hemangioblastoma                                       
+01.14 000442 Myelosclerosis with myeloid metaplasia                 
+01.03 001015 Refractory anemia                                      
+00.32 000042 Odontogenic tumor, malignant                           
+00.77 000992 Phyllodes tumor, malignant                             
+01.32 015613 Papillary serous cystadenocarcinoma                    
+01.40 005118 Serous cystadenocarcinoma, NOS                         
+00.16 000022 Malignant placental site trophoblastic tumor           
+00.89 000142 Follicular adenocarcinoma trabecular                   
+02.02 000360 Refractory cytopenia with multilineage dysplasia       
+01.23 000797 Adrenal cortical carcinoma                             
+00.63 001897 Osteosarcoma, NOS                                      
+02.16 000976 Transitional cell carcinoma in situ                    
+01.72 052064 Transitional cell carcinoma, NOS                       
+01.77 000133 Spermatocytic seminoma                                 
+00.77 000134 Clear cell sarcoma,NOS (except of kidney M-8964/3)     
+01.14 004723 Adenocarcinoma in situ in villous adenoma              
+00.51 000667 Retinoblastoma, NOS                                    
+00.54 003222 Mullerian mixed tumor                                  
+00.76 000213 Endometrial stromal sarcoma, low grade                 
+01.31 000680 Acute myeloid leukemia with maturation                 
+01.04 017058 Adenocarcinoma in villous adenoma                      
+01.10 001039 Precursor B-cell lymphoblastic leukemia                
+00.85 000312 Renal cell carcinoma, sarcomatoid                      
+01.08 000250 Giant cell and spindle cell carcinoma                  
+01.37 010038 ML, small B lymphocytic, NOS                           
+00.71 000883 Hodgkin lymphoma, lymphocyte-rich                      
+00.57 000210 Pheochromocytoma                                       
+02.08 000786 Fibrillary astrocytoma                                 
+00.51 002949 Adenocarcinoma, intestinal type                        
+01.75 002420 Astrocytoma, anaplastic                                
+00.61 000094 Small cell sarcoma                                     
+00.92 000977 Precursor cell lymphoblastic lymphoma, NOS             
+77.01 004805 Superficial spreading melanoma, in situ                
+08.56 001873 Merkel cell carcinoma                                  
+00.46 001431 Gastrointestinal stromal sarcoma                       
+01.48 012892 Malignant lymphoma, non-Hodgkin                        
+00.56 000175 Atypical meningioma                                    
+01.52 004329 ML, mixed sm. and lg. cell, diffuse                    
+01.36 011002 Lobular carcinoma in situ                              
+01.16 009953 Comedocarcinoma, non-infiltrating                      
+39.46 042918 Superficial spreading melanoma                         
+00.55 000304 Sq. cell carcinoma, sm. cell, non-ker.                 
+01.78 035940 Lobular carcinoma, NOS                                 
+00.80 006922 Comedocarcinoma, NOS                                   
+00.70 000267 Acute megakaryoblastic leukemia                        
+01.10 004125 Marginal zone B-cell lymphoma, NOS                     
+00.51 000105 Polymorphous low grade adenocarcinoma                  
+00.26 000068 Thymoma, type AB, malignant                            
+00.95 000152 Ependymoma, anaplastic                                 
+01.15 000147 Mesonephroma, malignant                                
+01.06 008341 Adenocarcinoma in situ in adenomatous polyp            
+01.31 000486 Papillary mucinous cystadenocarcinoma                  
+00.29 000026 Neurofibroma, NOS                                      
+00.43 001911 Pituitary adenoma, NOS                                 
+01.86 005052 Mesothelioma, malignant                                
+01.17 018640 Acute myeloid leukemia                                 
+01.57 031878 B-cell chr. lymph. leuk./small lymphocytic lymphoma    
+00.72 011629 Signet ring cell carcinoma                             
+01.18 021874 Adenocarcinoma in adenomatous polyp                    
+01.28 000111 Papillary carcinoma, encapsulated                      
+00.95 000895 Islet cell carcinoma                                   
+00.41 000212 Plasma cell leukemia                                   
+00.69 000962 Anaplastic large cell lymphoma, T-cell and Null cell ty
+00.98 000267 Bronchiolo-alveolar carcinoma, mucinous                
+00.69 000745 Malignant peripheral nerve sheath tumor                
+00.70 002395 Carcinosarcoma, NOS                                    
+00.97 001222 Acute promyelocytic leuk.,t(15;17)(q22;q11-12)         
+01.11 052332 Small cell carcinoma, NOS                              
+00.66 000534 Pleomorphic carcinoma                                  
+00.39 000106 Malignant tumor, giant cell type                       
+00.11 000044 Pigmented dermatofibrosarcoma protuberans              
+00.50 000055 Infantile fibrosarcoma                                 
+02.26 002395 Oligodendroglioma, NOS                                 
+00.69 008354 Leiomyosarcoma, NOS                                    
+01.13 001193 Myxoid liposarcoma                                     
+01.29 000133 NK/T-cell lymphoma, nasal and nasal-type               
+01.17 000458 Hodgkin lymphoma, nod. scler., grade 2                 
+00.67 017962 Non-small cell carcinoma                               
+00.81 000066 Cavernous hemangioma                                   
+00.78 012038 Acinar cell carcinoma                                  
+00.42 000336 Medullary carcinoma with lymphoid stroma               
+00.44 000044 Myosarcoma                                             
+03.78 002223 Hairy cell leukemia                                    
+00.74 000793 Apocrine adenocarcinoma                                

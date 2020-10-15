@@ -1,0 +1,228 @@
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Amoebozoa:Centramoebida:Acanthamoebidae:Acanthamoeba:Acanthamoeba castellanii
+Proteobacteria:Gammaproteobacteria:Pseudomonadales:Moraxellaceae:Acinetobacter:Acinetobacter baumannii
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Streptosporangineae:Thermomonosporaceae:Actinomadura:Actinomadura madurae
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Streptosporangineae:Thermomonosporaceae:Actinomadura:Actinomadura pelletieri
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Actinomycineae:Actinomycetaceae:Actinomyces:Actinomyces gerencseriae
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Actinomycineae:Actinomycetaceae:Actinomyces:Actinomyces israelii
+Nematoda:Chromadorea:Rhabditida:Strongylida:Ancylostomatoidea:Ancylostomatidae:Ancylostomatinae:Ancylostoma:Ancylostoma duodenale
+Nematoda:Chromadorea:Rhabditida:Strongylida:Metastrongyloidea:Angiostrongylidae:Angiostrongylus:Angiostrongylus cantonensis
+Nematoda:Chromadorea:Rhabditida:Strongylida:Metastrongyloidea:Angiostrongylidae:Angiostrongylus:Angiostrongylus costaricensis
+Nematoda:Chromadorea:Ascaridida:Ascaridoidea:Anisakidae:Anisakis:Anisakis simplex complex:Anisakis simplex
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Actinomycineae:Actinomycetaceae:Arcanobacterium:Arcanobacterium haemolyticum
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Actinomycineae:Actinomycetaceae:Arcanobacterium:Arcanobacterium pyogenes
+Nematoda:Chromadorea:Ascaridida:Ascaridoidea:Ascarididae:Ascaris:Ascaris lumbricoides
+Nematoda:Chromadorea:Ascaridida:Ascaridoidea:Ascarididae:Ascaris:Ascaris suum
+Ascomycota:Pezizomycotina:Eurotiomycetes:Eurotiomycetidae:Eurotiales:Trichocomaceae:Mitosporic trichocomaceae:Aspergillus:Aspergillus fumigatus
+Apicomplexa:Aconoidasida:Piroplasmida:Babesiidae:Babesia:Babesia divergens
+Apicomplexa:Aconoidasida:Piroplasmida:Babesiidae:Babesia:Babesia microti
+Firmicutes:Bacilli:Bacillales:Bacillaceae:Bacillus:Bacillus cereus group:Bacillus anthracis
+Firmicutes:Bacilli:Bacillales:Bacillaceae:Bacillus:Bacillus cereus group:Bacillus cereus
+Bacteroidetes:Bacteroidia:Bacteroidales:Bacteroidaceae:Bacteroides:Bacteroides fragilis
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Alveolata:Ciliophora:Intramacronucleata:Litostomatea:Trichostomatia:Vestibuliferida:Balantidiidae:Balantidium:Balantidium coli
+Proteobacteria:Alphaproteobacteria:Rhizobiales:Bartonellaceae:Bartonella:Bartonella bacilliformis
+Proteobacteria:Alphaproteobacteria:Rhizobiales:Bartonellaceae:Bartonella:Bartonella quintana
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Stramenopiles:Blastocystis:Blastocystis hominis
+Proteobacteria:Betaproteobacteria:Burkholderiales:Alcaligenaceae:Bordetella:Bordetella bronchiseptica
+Proteobacteria:Betaproteobacteria:Burkholderiales:Alcaligenaceae:Bordetella:Bordetella parapertussis
+Proteobacteria:Betaproteobacteria:Burkholderiales:Alcaligenaceae:Bordetella:Bordetella pertussis
+Spirochaetes:Spirochaetes (class):Spirochaetales:Spirochaetaceae:Borrelia:Borrelia burgdorferi group:Borrelia burgdorferi
+Spirochaetes:Spirochaetes (class):Spirochaetales:Spirochaetaceae:Borrelia:Borrelia duttonii
+Spirochaetes:Spirochaetes (class):Spirochaetales:Spirochaetaceae:Borrelia:Borrelia recurrentis
+Microsporidia:Apansporoblastina:Nosematidae:Brachiola:Brachiola algerae
+Proteobacteria:Alphaproteobacteria:Rhizobiales:Brucellaceae:Brucella:Brucella abortus
+Proteobacteria:Alphaproteobacteria:Rhizobiales:Brucellaceae:Brucella:Brucella canis
+Proteobacteria:Alphaproteobacteria:Rhizobiales:Brucellaceae:Brucella:Brucella melitensis
+Proteobacteria:Alphaproteobacteria:Rhizobiales:Brucellaceae:Brucella:Brucella suis
+Nematoda:Chromadorea:Spirurida:Filarioidea:Onchocercidae:Brugia:Brugia malayi
+Nematoda:Chromadorea:Spirurida:Filarioidea:Onchocercidae:Brugia:Brugia pahangi
+Nematoda:Chromadorea:Spirurida:Filarioidea:Onchocercidae:Brugia:Brugia timori
+Proteobacteria:Betaproteobacteria:Burkholderiales:Burkholderiaceae:Burkholderia:Burkholderia cepacia complex:Burkholderia cepacia
+Proteobacteria:Betaproteobacteria:Burkholderiales:Burkholderiaceae:Burkholderia:Pseudomallei group:Burkholderia mallei
+Proteobacteria:Betaproteobacteria:Burkholderiales:Burkholderiaceae:Burkholderia:Pseudomallei group:Burkholderia pseudomallei
+Proteobacteria:Delta/epsilon subdivisions:Epsilonproteobacteria:Campylobacterales:Campylobacteraceae:Campylobacter:Campylobacter fetus
+Proteobacteria:Delta/epsilon subdivisions:Epsilonproteobacteria:Campylobacterales:Campylobacteraceae:Campylobacter:Campylobacter jejuni
+Ascomycota:Saccharomycotina:Saccharomycetes:Saccharomycetales:Mitosporic saccharomycetales:Candida:Candida albicans
+Ascomycota:Saccharomycotina:Saccharomycetes:Saccharomycetales:Mitosporic saccharomycetales:Candida:Candida tropicalis
+Proteobacteria:Gammaproteobacteria:Cardiobacteriales:Cardiobacteriaceae:Cardiobacterium:Cardiobacterium hominis
+Chlamydiae:Chlamydiae (class):Chlamydiales:Chlamydiaceae:Chlamydia:Chlamydia trachomatis
+Chlamydiae:Chlamydiae (class):Chlamydiales:Chlamydiaceae:Chlamydia:Chlamydia trachomatis
+Ascomycota:Pezizomycotina:Eurotiomycetes:Chaetothyriomycetidae:Chaetothyriales:Herpotrichiellaceae:Mitosporic herpotrichiellaceae:Cladophialophora:Cladophialophora bantiana
+Platyhelminthes:Trematoda:Digenea:Opisthorchiida:Opisthorchiata:Opisthorchioidea:Opisthorchiidae:Clonorchis:Clonorchis sinensis
+Firmicutes:Clostridia:Clostridiales:Clostridiaceae:Clostridium:Clostridium botulinum
+Firmicutes:Clostridia:Clostridiales:Clostridiaceae:Clostridium:Clostridium perfringens
+Firmicutes:Clostridia:Clostridiales:Clostridiaceae:Clostridium:Clostridium tetani
+Ascomycota:Pezizomycotina:Eurotiomycetes:Eurotiomycetidae:Onygenales:Mitosporic onygenales:Coccidioides:Coccidioides immitis
+Nematoda:Chromadorea:Ascaridida:Ascaridoidea:Anisakidae:Contracaecum:Contracaecum osculatum
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Corynebacteriaceae:Corynebacterium:Corynebacterium diphtheriae
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Corynebacteriaceae:Corynebacterium:Corynebacterium minutissimum
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Corynebacteriaceae:Corynebacterium:Corynebacterium pseudotuberculosis
+Proteobacteria:Gammaproteobacteria:Legionellales:Coxiellaceae:Coxiella:Coxiella burnetii
+Apicomplexa:Coccidia:Eucoccidiorida:Eimeriorina:Cryptosporidiidae:Cryptosporidium:Cryptosporidium parvum
+Apicomplexa:Coccidia:Eucoccidiorida:Eimeriorina:Eimeriidae:Cyclospora:Cyclospora cayetanensis
+Apicomplexa:Coccidia:Eucoccidiorida:Eimeriorina:Sarcocystidae:Cystoisospora:Cystoisospora belli
+Platyhelminthes:Trematoda:Digenea:Plagiorchiida:Plagiorchiata:Plagiorchioidea:Dicrocoeliidae:Dicrocoelium:Dicrocoelium dendriticum
+Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Parabasalidea:Trichomonada:Trichomonadida:Monocercomonadidae:Dientamoeba:Dientamoeba fragilis
+Platyhelminthes:Cestoda:Eucestoda:Pseudophyllidea:Diphyllobothriidae:Diphyllobothrium:Diphyllobothrium latum
+Nematoda:Chromadorea:Spirurida:Dracunculoidea:Dracunculidae:Dracunculus:Dracunculus medinensis
+Platyhelminthes:Cestoda:Eucestoda:Cyclophyllidea:Taeniidae:Echinococcus:Echinococcus granulosus
+Platyhelminthes:Cestoda:Eucestoda:Cyclophyllidea:Taeniidae:Echinococcus:Echinococcus multilocularis
+Platyhelminthes:Cestoda:Eucestoda:Cyclophyllidea:Taeniidae:Echinococcus:Echinococcus vogeli
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Edwardsiella:Edwardsiella tarda
+Proteobacteria:Betaproteobacteria:Neisseriales:Neisseriaceae:Eikenella:Eikenella corrodens
+Ascomycota:Pezizomycotina:Eurotiomycetes:Eurotiomycetidae:Onygenales:Mitosporic onygenales:Emmonsia:Emmonsia parva
+Ascomycota:Pezizomycotina:Eurotiomycetes:Eurotiomycetidae:Onygenales:Mitosporic onygenales:Emmonsia:Emmonsia parva
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Amoebozoa:Archamoebae:Entamoebidae:Entamoeba:Entamoeba histolytica
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Enterobacter:Enterobacter aerogenes
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Enterobacter:Enterobacter cloacae complex:Enterobacter cloacae
+Nematoda:Chromadorea:Oxyurida:Oxyuroidea:Oxyuridae:Enterobius:Enterobius vermicularis
+Microsporidia:Apansporoblastina:Enterocytozoonidae:Enterocytozoon:Enterocytozoon bieneusi
+Ascomycota:Pezizomycotina:Eurotiomycetes:Eurotiomycetidae:Onygenales:Arthrodermataceae:Mitosporic arthrodermataceae:Epidermophyton:Epidermophyton floccosum
+Firmicutes:Erysipelotrichi:Erysipelotrichales:Erysipelotrichaceae:Erysipelothrix:Erysipelothrix rhusiopathiae
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Escherichia:Escherichia coli
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Escherichia:Escherichia coli
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Escherichia:Escherichia coli
+Platyhelminthes:Trematoda:Digenea:Echinostomida:Echinostomata:Echinostomatoidea:Fasciolidae:Fasciola:Fasciola gigantica
+Platyhelminthes:Trematoda:Digenea:Echinostomida:Echinostomata:Echinostomatoidea:Fasciolidae:Fasciola:Fasciola hepatica
+Platyhelminthes:Trematoda:Digenea:Echinostomida:Echinostomata:Echinostomatoidea:Fasciolidae:Fasciolopsis:Fasciolopsis buski
+Proteobacteria:Gammaproteobacteria:Legionellales:Legionellaceae:Fluoribacter:Fluoribacter bozemanae
+Ascomycota:Mitosporic ascomycota:Fonsecaea:Fonsecaea compacta
+Ascomycota:Mitosporic ascomycota:Fonsecaea:Fonsecaea pedrosoi
+Proteobacteria:Gammaproteobacteria:Thiotrichales:Francisellaceae:Francisella:Francisella tularensis
+Proteobacteria:Gammaproteobacteria:Thiotrichales:Francisellaceae:Francisella:Francisella tularensis
+Fusobacteria:Fusobacteria (class):Fusobacteriales:Fusobacteriaceae:Fusobacterium:Fusobacterium necrophorum
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Bifidobacteriales:Bifidobacteriaceae:Gardnerella:Gardnerella vaginalis
+Proteobacteria:Gammaproteobacteria:Pasteurellales:Pasteurellaceae:Haemophilus:Haemophilus ducreyi
+Proteobacteria:Gammaproteobacteria:Pasteurellales:Pasteurellaceae:Haemophilus:Haemophilus influenzae
+Proteobacteria:Delta/epsilon subdivisions:Epsilonproteobacteria:Campylobacterales:Helicobacteraceae:Helicobacter:Helicobacter pylori
+Platyhelminthes:Cestoda:Eucestoda:Cyclophyllidea:Hymenolepididae:Hymenolepis:Hymenolepis diminuta
+Platyhelminthes:Cestoda:Eucestoda:Cyclophyllidea:Hymenolepididae:Hymenolepis:Hymenolepis nana
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Klebsiella:Klebsiella oxytoca
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Klebsiella:Klebsiella pneumoniae
+Proteobacteria:Gammaproteobacteria:Legionellales:Legionellaceae:Legionella:Legionella pneumophila
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Leishmania:Leishmania aethiopica species complex:Leishmania aethiopica
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Leishmania:Leishmania mexicana species complex:Leishmania amazonensis
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Leishmania:Leishmania donovani species complex:Leishmania chagasi
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Leishmania:Leishmania donovani species complex:Leishmania chagasi
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Leishmania:Leishmania donovani species complex:Leishmania donovani
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Leishmania:Leishmania donovani species complex:Leishmania donovani
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Leishmania:Leishmania donovani species complex:Leishmania infantum
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Leishmania:Leishmania major species complex:Leishmania major
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Leishmania:Leishmania mexicana species complex:Leishmania mexicana
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Viannia:Leishmania braziliensis species complex:Leishmania peruviana
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Leishmania:Leishmania:Leishmania tropica species complex:Leishmania tropica
+Spirochaetes:Spirochaetes (class):Spirochaetales:Leptospiraceae:Leptospira:Leptospira interrogans
+Firmicutes:Bacilli:Bacillales:Listeriaceae:Listeria:Listeria ivanovii
+Firmicutes:Bacilli:Bacillales:Listeriaceae:Listeria:Listeria monocytogenes
+Nematoda:Chromadorea:Spirurida:Filarioidea:Onchocercidae:Loa:Loa loa
+Ascomycota:Mitosporic ascomycota:Madurella:Madurella grisea
+Ascomycota:Mitosporic ascomycota:Madurella:Madurella mycetomatis
+Nematoda:Chromadorea:Spirurida:Filarioidea:Onchocercidae:Mansonella:Mansonella ozzardi
+Nematoda:Chromadorea:Spirurida:Filarioidea:Onchocercidae:Mansonella:Mansonella perstans
+Ascomycota:Pezizomycotina:Eurotiomycetes:Eurotiomycetidae:Onygenales:Arthrodermataceae:Mitosporic arthrodermataceae:Microsporum:Microsporum canis
+Proteobacteria:Gammaproteobacteria:Pseudomonadales:Moraxellaceae:Moraxella:Branhamella:Moraxella catarrhalis
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Morganella:Morganella morganii
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium tuberculosis complex:Mycobacterium africanum
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium tuberculosis complex:Mycobacterium bovis
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium chelonae group:Mycobacterium chelonae
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium fortuitum
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium kansasii
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium leprae
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium malmoense
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium marinum
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium tuberculosis complex:Mycobacterium microti
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium avium complex (mac):Mycobacterium scrofulaceum
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium avium complex (mac):Mycobacterium scrofulaceum
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium simiae
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium szulgai
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium tuberculosis complex:Mycobacterium tuberculosis
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium ulcerans
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium ulcerans
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium xenopi
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Mycobacteriaceae:Mycobacterium:Mycobacterium xenopi
+Tenericutes:Mollicutes:Mycoplasmatales:Mycoplasmataceae:Mycoplasma:Mycoplasma caviae
+Tenericutes:Mollicutes:Mycoplasmatales:Mycoplasmataceae:Mycoplasma:Mycoplasma hominis
+Tenericutes:Mollicutes:Mycoplasmatales:Mycoplasmataceae:Mycoplasma:Mycoplasma pneumoniae
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Heterolobosea:Schizopyrenida:Vahlkampfiidae:Naegleria:Naegleria fowleri
+Nematoda:Chromadorea:Rhabditida:Strongylida:Ancylostomatoidea:Ancylostomatidae:Bunostominae:Necator:Necator americanus
+Proteobacteria:Betaproteobacteria:Neisseriales:Neisseriaceae:Neisseria:Neisseria gonorrhoeae
+Proteobacteria:Betaproteobacteria:Neisseriales:Neisseriaceae:Neisseria:Neisseria meningitidis
+Ascomycota:Pezizomycotina:Dothideomycetes:Pleosporomycetidae:Pleosporales:Testudinaceae:Neotestudina:Neotestudina rosatii
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Nocardiaceae:Nocardia:Nocardia asteroides
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Nocardiaceae:Nocardia:Nocardia brasiliensis
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Nocardiaceae:Nocardia:Nocardia farcinica
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Nocardiaceae:Nocardia:Nocardia nova
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Nocardiaceae:Nocardia:Nocardia otitidiscaviarum
+Nematoda:Chromadorea:Spirurida:Filarioidea:Onchocercidae:Onchocerca:Onchocerca volvulus
+Platyhelminthes:Trematoda:Digenea:Opisthorchiida:Opisthorchiata:Opisthorchioidea:Opisthorchiidae:Opisthorchis:Opisthorchis felineus
+Platyhelminthes:Trematoda:Digenea:Opisthorchiida:Opisthorchiata:Opisthorchioidea:Opisthorchiidae:Opisthorchis:Opisthorchis sinensis
+Platyhelminthes:Trematoda:Digenea:Opisthorchiida:Opisthorchiata:Opisthorchioidea:Opisthorchiidae:Opisthorchis:Opisthorchis viverrini
+Ascomycota:Pezizomycotina:Eurotiomycetes:Eurotiomycetidae:Onygenales:Mitosporic onygenales:Paracoccidioides:Paracoccidioides brasiliensis
+Platyhelminthes:Trematoda:Digenea:Plagiorchiida:Troglotremata:Paragonimidae:Paragonimus:Paragonimus westermani
+Proteobacteria:Gammaproteobacteria:Pasteurellales:Pasteurellaceae:Pasteurella:Pasteurella multocida
+Ascomycota:Pezizomycotina:Eurotiomycetes:Eurotiomycetidae:Eurotiales:Trichocomaceae:Mitosporic trichocomaceae:Penicillium:Penicillium marneffei
+Firmicutes:Clostridia:Clostridiales:Peptostreptococcaceae:Peptostreptococcus:Peptostreptococcus anaerobius
+Apicomplexa:Aconoidasida:Haemosporida:Plasmodium:Plasmodium (laverania):Plasmodium falciparum
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Plesiomonas:Plesiomonas shigelloides
+Bacteroidetes:Bacteroidia:Bacteroidales:Prevotellaceae:Prevotella:Prevotella dentalis
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Proteus:Proteus mirabilis
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Proteus:Proteus penneri
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Proteus:Proteus vulgaris
+Chlorophyta:Trebouxiophyceae:Chlorellales:Chlorellaceae:Prototheca:Prototheca wickerhamii
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Providencia:Providencia alcalifaciens
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Providencia:Providencia rettgeri
+Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:Pseudomonas aeruginosa group:Pseudomonas aeruginosa
+Nematoda:Chromadorea:Ascaridida:Ascaridoidea:Anisakidae:Pseudoterranova:Pseudoterranova decipiens
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Corynebacterineae:Nocardiaceae:Rhodococcus:Rhodococcus equi
+Proteobacteria:Alphaproteobacteria:Rickettsiales:Rickettsiaceae:Rickettsieae:Rickettsia:Spotted fever group:Rickettsia akari
+Proteobacteria:Alphaproteobacteria:Rickettsiales:Rickettsiaceae:Rickettsieae:Rickettsia:Spotted fever group:Rickettsia conorii
+Proteobacteria:Alphaproteobacteria:Rickettsiales:Rickettsiaceae:Rickettsieae:Rickettsia:Typhus group:Rickettsia prowazekii
+Proteobacteria:Alphaproteobacteria:Rickettsiales:Rickettsiaceae:Rickettsieae:Rickettsia:Spotted fever group:Rickettsia rickettsii
+Proteobacteria:Alphaproteobacteria:Rickettsiales:Rickettsiaceae:Rickettsieae:Rickettsia:Typhus group:Rickettsia typhi
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Salmonella
+Apicomplexa:Coccidia:Eucoccidiorida:Eimeriorina:Sarcocystidae:Sarcocystis:Sarcocystis suihominis
+Ascomycota:Pezizomycotina:Sordariomycetes:Hypocreomycetidae:Microascales:Microascaceae:Mitosporic microascaceae:Scedosporium:Scedosporium apiospermum
+Platyhelminthes:Trematoda:Digenea:Strigeidida:Schistosomatoidea:Schistosomatidae:Schistosoma:Schistosoma haematobium
+Platyhelminthes:Trematoda:Digenea:Strigeidida:Schistosomatoidea:Schistosomatidae:Schistosoma:Schistosoma intercalatum
+Platyhelminthes:Trematoda:Digenea:Strigeidida:Schistosomatoidea:Schistosomatidae:Schistosoma:Schistosoma japonicum
+Platyhelminthes:Trematoda:Digenea:Strigeidida:Schistosomatoidea:Schistosomatidae:Schistosoma:Schistosoma mansoni
+Platyhelminthes:Trematoda:Digenea:Strigeidida:Schistosomatoidea:Schistosomatidae:Schistosoma:Schistosoma mekongi
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Shigella:Shigella boydii
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Shigella:Shigella dysenteriae
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Shigella:Shigella dysenteriae
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Shigella:Shigella dysenteriae
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Shigella:Shigella flexneri
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Shigella:Shigella sonnei
+Ascomycota:Pezizomycotina:Sordariomycetes:Sordariomycetidae:Ophiostomatales:Ophiostomataceae:Mitosporic ophiostomataceae:Sporothrix:Sporothrix schenckii
+Firmicutes:Bacilli:Bacillales:Staphylococcaceae:Staphylococcus:Staphylococcus aureus
+Fusobacteria:Fusobacteria (class):Fusobacteriales:Fusobacteriaceae:Streptobacillus:Streptobacillus moniliformis
+Firmicutes:Bacilli:Lactobacillales:Streptococcaceae:Streptococcus:Streptococcus pneumoniae
+Firmicutes:Bacilli:Lactobacillales:Streptococcaceae:Streptococcus:Streptococcus pyogenes
+Firmicutes:Bacilli:Lactobacillales:Streptococcaceae:Streptococcus:Streptococcus suis
+Nematoda:Chromadorea:Rhabditida:Panagrolaimoidea:Strongyloididae:Strongyloides:Strongyloides stercoralis
+Platyhelminthes:Cestoda:Eucestoda:Cyclophyllidea:Taeniidae:Taenia:Taenia saginata
+Platyhelminthes:Cestoda:Eucestoda:Cyclophyllidea:Taeniidae:Taenia:Taenia solium
+Nematoda:Chromadorea:Ascaridida:Ascaridoidea:Toxocaridae:Toxocara:Toxocara canis
+Nematoda:Chromadorea:Ascaridida:Ascaridoidea:Toxocaridae:Toxocara:Toxocara cati
+Apicomplexa:Coccidia:Eucoccidiorida:Eimeriorina:Sarcocystidae:Toxoplasma:Toxoplasma gondii
+Spirochaetes:Spirochaetes (class):Spirochaetales:Spirochaetaceae:Treponema:Treponema pallidum
+Nematoda:Enoplea:Enoplia:Trichocephalida:Trichinellidae:Trichinella:Trichinella nativa
+Nematoda:Enoplea:Enoplia:Trichocephalida:Trichinellidae:Trichinella:Trichinella nelsoni
+Nematoda:Enoplea:Enoplia:Trichocephalida:Trichinellidae:Trichinella:Trichinella pseudospiralis
+Nematoda:Enoplea:Enoplia:Trichocephalida:Trichinellidae:Trichinella:Trichinella spiralis
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Parabasalidea:Trichomonada:Trichomonadida:Trichomonadidae:Trichomonadinae:Trichomonas:Trichomonas vaginalis
+Ascomycota:Pezizomycotina:Eurotiomycetes:Eurotiomycetidae:Onygenales:Arthrodermataceae:Mitosporic arthrodermataceae:Trichophyton:Trichophyton rubrum
+Ascomycota:Pezizomycotina:Eurotiomycetes:Eurotiomycetidae:Onygenales:Arthrodermataceae:Mitosporic arthrodermataceae:Trichophyton:Trichophyton tonsurans
+Nematoda:Enoplea:Enoplia:Trichocephalida:Trichuridae:Trichuris:Trichuris trichiura
+Actinobacteria:Actinobacteria (class):Actinobacteridae:Actinomycetales:Micrococcineae:Unclassified micrococcineae:Tropheryma:Tropheryma whipplei
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Trypanosoma:Trypanozoon:Trypanosoma brucei:Trypanosoma brucei brucei
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Trypanosoma:Trypanozoon:Trypanosoma brucei:Trypanosoma brucei gambiense
+:Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Trypanosoma:Trypanozoon:Trypanosoma brucei:Trypanosoma brucei rhodesiense
+Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Root::Cellular organisms:Eukaryota:Euglenozoa:Kinetoplastida:Trypanosomatidae:Trypanosoma:Schizotrypanum:Trypanosoma cruzi
+Tenericutes:Mollicutes:Mycoplasmatales:Mycoplasmataceae:Ureaplasma:Ureaplasma urealyticum
+Proteobacteria:Gammaproteobacteria:Vibrionales:Vibrionaceae:Vibrio:Vibrio cholerae
+Proteobacteria:Gammaproteobacteria:Vibrionales:Vibrionaceae:Vibrio:Vibrio parahaemolyticus
+Nematoda:Chromadorea:Spirurida:Filarioidea:Onchocercidae:Wuchereria:Wuchereria bancrofti
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Yersinia:Yersinia enterocolitica
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Yersinia:Yersinia pestis
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Yersinia:Yersinia pseudotuberculosis
+Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Yersinia:Yersinia pseudotuberculosis

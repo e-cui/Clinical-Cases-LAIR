@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="http://www.julesberman.info/">
+    <dc:creator>Jules J. Berman</dc:creator>
+    <dc:title>Methods in Medical Informatics</dc:title>
+    <dc:description>BEGIN
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQICAQECAQEBAgICAgICAgICAQICAgICAgICAgL/
+wAALCASZBT4BAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL
+/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEI
+I0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVW
+V1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ip
+qrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3
++Pn6/9oACAEBAAA/AP7VX1O8GoXbNf6pHaW8mo28Bku9UWOKae+8aRrNJJLq
+ESyIrJFxLIEVYQGdEXiymrRuswk1Ev5NpNcFV1KAm8WKNnMC7/HW0FgHC5HJ
+YcHJFZc9w99c3N28+oQRxWVxNGBq2mQxqypezg7I/G65G+6uTn0YAfcQLZtr
+8RQskd9dXs8sMslyJdZtI2itibuSZ4TbeMnZpAl5dMNsTyZZQiOVRRmLe6gv
+/H3f6pOAwMUR1bUI/Mth1hLRXQJDJuBPLc9aq22rX0d7LOWu4y8TwIsupX7R
+BZAUCvG90QeG5Y/NxkNWzNd3NwW2sCtraSXcixarqSvmCMyZBS8HzE4AHrjI
+.
+.
+. [LOTS MORE HERE]
+.
+.
+j1H0b+RqY/dP/Xs//oFQp/rG/wCuD/8AoBq52k/69JP/AEUaqD/UJ/vD/wBB
+NNk/1Kf9dB/6EtaF39yH/riP5CsJ+sX/AF1T+Zq8PuN9f8KkT/j5h+o/9CFM
+P/Hxcf7p/k1RTf68/wC+f/SnVqdH92b6P/6A1Z0n+tT/AHh/7LTbz/j3tP8A
+rjc/+gGsO8/49o/90fyNcXqH3j+P8jWGn31/3l/mK2bb/j1/GL+dasnb/rmf
+6UqdE+o/ktLa/wDLH/dn/rV5f9Yf+ub/APoLV0dn/q4fqP8A0M1ek6yf9cG/
+matL9+b/AK5Q/wDoNP8A4W/4F/M0QffH+8n86jf7x/D+Qpp/17/9cT/6EKtX
+HWL/AK4j/wBArKX/AFtn9Zv5Vdf7x/D+Qqxb/dk/3X/9FtVebov+8v8A6GtQ
+/wDLO4/67H/0dq1aEH/Hk/8A1zX+bVDdf63/ALdX/wDRYqg3/HrJ/wBcpf5P
+WO3Q/Q/yqva9J/of5Gta2+5F9R/6FWrN9yL/AIB/6MWiX7p/64n/ANFmq1t1
+P1T+ZqRv9dJ/vwfzWrif6w/7n/swr//Z
+END
+
+    Medical Informatics methods and algorithms in Perl, Python, and Ruby
+    </dc:description>
+    <dc:date>2010</dc:date>
+</rdf:Description>
+</rdf:RDF>

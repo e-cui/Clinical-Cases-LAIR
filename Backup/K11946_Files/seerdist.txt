@@ -1,0 +1,645 @@
+ac. myelomonocytic leuk. w abn. mar. eosinophils|1 0 4 2 1 5 3 3 5 5 3 7 3 4 4 5 1 0 1 0
+acidophil adenoma|0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+acidophil carcinoma|1 1 0 0 0 0 2 1 2 0 1 0 0 1 1 0 0 0 0 0
+acinar cell carcinoma|0 3 25 44 39 70 69 89 203 381 940 1560 1818 2175 1853 1261 641 265 75 9
+acinar cell cystadenocarcinoma|0 0 0 0 0 0 0 0 0 1 0 2 0 0 0 0 0 0 0 0
+acral lentiginous melanoma, malig.|0 0 2 5 12 16 24 42 55 50 69 75 85 99 111 104 73 41 16 5
+acute basophilic leukemia|0 0 0 0 0 0 0 0 0 1 1 1 1 0 2 1 1 0 1 0
+acute biphenotypic leukemia|4 2 0 3 0 0 2 0 0 1 2 2 3 3 3 4 4 0 1 0
+acute leukemia, nos|139 62 45 46 46 51 56 81 79 96 126 184 263 349 524 523 496 370 132 63
+acute megakaryoblastic leukemia|59 1 4 2 2 3 1 8 9 9 15 14 19 24 34 21 21 7 4 0
+acute monocytic leukemia|77 20 27 39 38 46 40 50 72 95 111 122 156 187 184 214 161 92 32 7
+acute myeloid leuk. with multilineage dysplasia|1 1 1 2 3 2 2 2 9 10 19 23 30 43 50 60 46 17 6 0
+acute myeloid leukemia with maturation|7 10 18 9 13 14 11 23 26 37 37 43 44 62 71 72 68 35 14 0
+acute myeloid leukemia without maturation|6 5 10 7 16 12 13 12 22 23 19 44 36 39 60 65 32 24 3 0
+acute myeloid leukemia, 11q23 abnormalities|1 0 0 0 1 0 1 1 1 3 0 0 2 3 4 0 3 2 0 0
+acute myeloid leukemia, m6 type|11 2 5 3 7 11 8 14 21 20 44 64 96 112 111 114 99 58 13 2
+acute myeloid leukemia, minimal differentiation|5 2 5 11 6 5 9 7 13 11 25 19 24 42 43 38 32 22 5 0
+acute myeloid leukemia, t(8;21)(q22;q22)|2 2 1 3 5 8 2 2 3 9 6 4 9 9 7 6 6 1 0 0
+acute myeloid leukemia|307 183 228 326 385 433 467 565 600 766 962 1224 1549 1972 2394 2367 1894 1030 399 80
+acute myelomonocytic leukemia|30 13 21 28 40 56 61 61 91 94 101 133 188 204 263 241 223 96 48 14
+acute panmyelosis with myelofibrosis|0 0 0 0 1 3 2 4 1 4 4 4 10 16 13 13 8 3 0 1
+acute promyelocytic leuk.,t(15;17)(q22;q11-12)|19 21 38 48 68 60 104 79 92 83 88 66 84 64 85 77 34 21 6 3
+adamantinoma of long bones|1 1 2 2 3 3 6 0 5 0 3 1 2 1 0 0 0 0 0 0
+adamantinomatous craniopharyngioma|4 5 2 0 1 1 0 1 2 3 3 3 0 0 0 1 0 1 0 0
+adenocarc. in situ in mult. adenomatous polyps|0 0 1 0 0 0 3 1 0 0 3 3 11 4 10 5 5 2 1 1
+adenocarcinoid tumor|0 0 2 2 9 9 15 19 39 40 24 43 25 24 31 24 9 11 2 0
+adenocarcinoma in adenoma. polyposis coli|0 0 0 3 5 13 15 17 12 16 22 11 13 23 15 11 2 1 0 0
+adenocarcinoma in adenomatous polyp|0 0 2 4 13 28 64 165 335 670 1416 1924 2705 3399 3482 3065 2146 1076 326 60
+adenocarcinoma in mult. adenomatous polyps|0 0 0 0 2 3 4 1 3 11 16 7 18 26 17 24 13 5 0 1
+adenocarcinoma in situ in adenomatous polyp|0 0 0 2 6 13 31 67 151 260 613 774 1149 1362 1348 1211 721 350 92 13
+adenocarcinoma in situ in familial polyp. coli|0 0 1 0 0 2 3 2 2 1 2 1 4 2 2 4 3 0 0 0
+adenocarcinoma in situ in tubulovillous adenoma|0 0 0 1 2 12 35 52 117 198 420 563 714 872 962 898 580 303 89 13
+adenocarcinoma in situ in villous adenoma|0 0 0 0 4 6 11 31 70 141 288 431 586 721 771 783 471 274 68 16
+adenocarcinoma in situ|0 0 0 10 72 221 351 367 418 556 769 741 721 671 624 543 358 199 57 6
+adenocarcinoma in tubulovillous adenoma|0 0 1 0 11 28 57 148 309 554 1088 1469 1836 2444 2674 2718 1898 956 299 65
+adenocarcinoma in villous adenoma|0 0 0 1 4 17 58 132 229 472 895 1399 1947 2538 2711 2687 2076 1154 374 60
+adenocarcinoma of anal glands|0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 0 0 0
+adenocarcinoma w cartilag. & oss. metaplas.|0 0 0 0 0 0 0 0 2 2 6 0 3 2 6 1 2 1 0 1
+adenocarcinoma with apocrine metaplasia|0 0 0 0 0 0 1 0 4 6 7 2 2 5 5 7 1 1 1 0
+adenocarcinoma with mixed subtypes|0 0 0 0 2 4 2 11 34 38 83 100 123 113 127 99 76 27 15 2
+adenocarcinoma with neuroendocrine differen.|0 0 0 0 0 1 0 0 5 6 9 15 13 13 11 15 10 5 2 0
+adenocarcinoma with spindle cell mataplasia|0 0 0 0 0 0 2 3 0 2 4 4 4 6 2 5 5 0 0 0
+adenocarcinoma with squamous metaplasia|0 0 0 1 9 36 83 146 249 307 529 645 680 532 398 251 139 67 9 5
+adenocarcinoma, endocervical type|0 0 0 0 2 10 17 19 15 21 11 5 5 1 1 6 2 0 0 0
+adenocarcinoma, intestinal type|0 0 0 0 1 4 7 13 38 73 96 161 236 331 453 511 437 265 120 20
+adenocarcinoma, nos|3 5 11 98 400 1381 3510 7372 14808 29862 57728 94657 133178 169821 180242 154973 102551 51591 16241 3508
+adenoid basal cell carcinoma|0 0 0 0 0 0 0 0 0 0 0 0 2 2 3 2 3 0 0 0
+adenoid cystic carcinoma|0 0 6 13 41 74 122 194 238 298 360 350 355 352 361 237 171 110 29 8
+adenoma, nos|0 1 1 3 5 8 11 6 10 23 17 17 8 13 9 6 10 4 1 0
+adenosarcoma|0 0 1 2 7 8 13 23 32 36 42 40 41 56 37 38 13 10 4 0
+adenosquamous carcinoma|1 0 2 0 18 101 215 342 486 605 947 1354 1596 1653 1597 1242 662 287 75 10
+adrenal cortical carcinoma|27 10 7 15 12 26 34 56 60 60 84 73 94 80 61 28 23 8 2 1
+adult t-cell leukemia/lymphoma (htlv-1 pos.)|2 0 1 0 5 2 4 15 3 6 9 6 10 8 12 18 16 6 3 0
+aggressive nk-cell leukemia|0 0 0 1 0 1 0 2 0 0 0 3 2 2 0 4 0 1 0 0
+alveolar adenocarcinoma|0 0 0 0 0 1 2 2 8 15 17 46 60 80 69 41 34 13 1 1
+alveolar rhabdomyosarcoma|61 55 55 65 29 13 11 10 6 5 3 7 7 3 1 2 2 1 1 0
+alveolar soft part sarcoma|2 5 12 14 18 22 7 9 2 3 1 4 2 0 1 1 0 0 0 0
+amelanotic melanoma|0 0 2 4 19 24 23 36 42 63 60 57 72 74 81 92 56 41 14 4
+ameloblastic fibrosarcoma|0 0 0 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0
+ameloblastic odontosarcoma|0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+ameloblastoma, malignant|0 1 1 5 5 5 7 7 4 6 8 5 8 11 3 7 3 3 0 0
+anaplastic large cell lymphoma, t-cell and null cell type|7 18 34 37 21 30 53 58 73 55 57 71 63 69 83 60 50 33 15 3
+androblastoma, malignant|0 0 3 2 2 1 0 0 0 3 0 2 1 0 1 0 1 0 0 0
+angioimmunoblastic t-cell lymphoma|0 0 1 0 1 1 4 3 10 9 18 24 27 35 34 31 24 15 2 2
+angiomatous meningioma|0 1 1 0 0 0 1 0 2 3 4 5 2 5 3 1 2 0 0 0
+angiomyosarcoma|0 0 0 1 0 2 2 1 2 0 2 1 4 2 1 2 2 1 0 0
+aortic body tumor, malignant|0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+apocrine adenocarcinoma|0 0 0 1 0 6 10 23 44 40 67 69 87 84 88 91 68 28 14 3
+askin tumor|0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+astroblastoma|13 18 11 13 15 17 11 14 10 14 21 14 14 13 10 8 3 0 0 0
+astrocytoma, anaplastic|35 54 49 50 92 152 198 180 203 188 179 184 159 208 169 137 60 18 4 1
+astrocytoma, nos|291 323 329 291 345 460 534 529 519 505 595 668 680 794 631 485 240 80 31 5
+atypical carcinoid tumor|0 0 0 0 0 0 1 1 5 9 8 8 8 13 10 6 5 3 0 0
+atypical choroid plexus papilloma|0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+atypical chronic myeloid leuk., bcr/abl negative|0 0 0 0 0 0 1 1 1 0 0 1 3 3 4 1 3 0 0 0
+atypical medullary carcinoma|0 0 0 0 0 0 9 10 10 14 11 29 11 8 5 6 3 3 1 0
+atypical meningioma|0 0 0 1 2 1 3 5 6 15 11 13 12 11 9 10 10 4 1 0
+atypical teratoid/rhabdoid tumor|19 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+b-cell chr. lymph. leuk./small lymphocytic lymphoma|3 0 1 2 5 14 71 177 441 898 1719 2618 3504 4332 4844 4555 3630 2271 955 288
+balloon cell melanoma|0 0 0 0 0 3 2 0 4 2 2 3 1 1 2 2 1 2 0 0
+basal cell adenocarcinoma|0 0 0 1 0 1 1 2 1 6 5 12 8 13 16 9 3 1 0 1
+basal cell carcinoma, fibroepithelial|0 0 0 0 0 0 0 0 0 1 1 2 3 2 1 2 0 0 0 0
+basal cell carcinoma, nodular|0 0 0 0 0 0 1 0 0 0 1 4 2 3 4 8 7 3 3 0
+basal cell carcinoma, nos|0 0 0 0 2 2 6 11 21 20 40 54 69 89 118 120 101 89 34 10
+basaloid carcinoma|0 0 0 0 0 0 3 9 12 12 49 53 57 72 66 52 42 28 3 3
+basaloid squamous cell carcinoma|0 0 0 0 0 0 4 4 22 39 78 65 55 68 67 39 35 14 3 0
+basophil adenoma|0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+basophil carcinoma|0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+basosquamous carcinoma|0 0 0 0 0 1 1 1 6 8 9 16 12 14 24 17 26 14 7 0
+bile duct cystadenocarcinoma|0 0 0 0 0 0 0 0 0 0 1 0 0 0 2 4 1 0 0 0
+blue nevus, malignant|0 0 0 0 2 2 4 0 2 2 2 2 1 3 1 3 2 0 0 1
+bowen disease|0 0 0 23 88 193 256 309 283 264 241 236 200 195 170 136 56 38 9 3
+brenner tumor, malignant|0 0 0 0 0 0 2 4 4 11 6 14 12 20 13 17 15 4 1 0
+bronch.-alv. carc., mixed mucin. and non-mucinous|0 0 0 0 0 1 0 0 0 1 2 3 3 1 4 6 2 3 0 0
+bronchiolo-alveolar adenocarcinoma|0 0 0 2 2 6 31 76 202 405 826 1262 1795 2122 2133 1746 887 300 71 15
+bronchiolo-alveolar carcinoma, mucinous|0 0 0 0 1 1 0 3 1 13 13 12 33 31 45 31 19 8 0 1
+bronchiolo-alveolar carcinoma, non-mucinous|0 0 0 0 0 0 0 1 3 7 8 27 19 20 26 27 22 4 1 0
+burkitt cell leukemia|11 11 7 5 3 6 4 5 6 9 4 6 5 8 12 7 6 2 0 1
+burkitt lymphoma, nos|81 154 141 95 67 91 125 137 141 103 86 76 50 58 68 59 43 27 4 3
+capillary hemangioma|0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+carcinofibroma|0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0
+carcinoid tumor, malignant|1 1 37 97 154 278 428 587 832 1149 1704 1805 1866 2027 1944 1551 985 460 105 17
+carcinoma in pleomorphic adenoma|0 0 0 0 1 1 6 10 8 17 15 19 13 16 18 19 13 8 0 1
+carcinoma in situ, nos|0 1 10 1246 7767 13009 10970 6897 4420 2823 2096 1833 1736 1578 1298 871 563 280 80 93
+carcinoma showing thymus-like element|0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0
+carcinoma simplex|0 0 0 0 0 0 0 0 2 2 3 6 5 12 5 9 3 6 1 0
+carcinoma with osteoclast-like giant cells|0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0
+carcinoma, anaplastic type, nos|0 0 1 7 8 12 36 59 131 229 324 466 635 718 674 504 361 200 68 13
+carcinoma, diffuse type|0 0 0 1 4 7 21 27 44 71 91 104 125 151 187 196 120 81 31 6
+carcinoma, nos|10 6 15 87 264 535 954 1618 2691 4826 7628 11297 16033 21449 26016 28396 27512 20217 9868 3194
+carcinoma, undifferentiated type, nos|1 1 7 22 27 42 104 161 298 525 828 1127 1543 1609 1579 1184 736 341 102 17
+carcinosarcoma, embryonal type|0 0 0 0 1 0 0 0 1 1 3 3 4 1 4 0 2 0 0 0
+carcinosarcoma, nos|0 0 0 0 1 8 12 16 44 73 143 239 286 363 364 283 252 132 39 9
+carotid body tumor, malignant|0 0 0 0 1 0 2 2 2 0 1 1 1 0 0 0 0 1 0 0
+cavernous hemangioma|2 1 1 0 6 3 2 4 2 2 5 4 1 2 1 2 0 0 0 0
+central osteosarcoma|0 0 1 4 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+centrol neurocytoma|0 0 0 4 3 2 4 3 3 1 0 0 0 1 0 0 0 0 0 0
+cerebellar sarcoma, nos|1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ceruminous adenocarcinoma|0 0 0 0 0 1 0 1 0 1 1 2 1 0 5 1 1 0 2 0
+cholangiocarcinoma|0 0 1 1 5 17 18 72 118 180 259 368 430 559 663 701 628 384 163 43
+chondroblastic osteosarcoma|3 7 38 54 32 16 14 11 9 7 8 4 7 4 4 3 3 1 2 0
+chondroblastoma, malignant|0 0 5 3 2 3 2 1 1 0 0 1 0 0 1 0 0 0 0 0
+chondroid chordoma|0 0 0 0 0 0 0 2 1 1 0 1 0 1 1 0 0 0 0 0
+chondrosarcoma, nos|2 2 24 64 70 112 145 126 147 178 171 164 184 145 157 116 66 42 13 4
+chordoid glioma|0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0
+chordoma, nos|3 4 14 12 21 17 27 44 29 49 54 54 49 73 64 44 30 17 8 1
+choriocarcinoma combined w/ other germ cell elements|0 0 5 59 136 148 99 46 30 18 7 5 1 2 0 0 0 0 0 0
+choriocarcinoma|1 0 8 92 152 189 136 88 50 55 19 13 9 9 5 2 3 0 1 0
+choroid plexus papilloma, malignant|32 4 4 0 2 3 2 2 2 0 4 2 2 0 0 0 0 0 1 0
+choroid plexus papilloma, nos|5 0 3 3 2 1 2 0 2 0 0 2 0 1 0 0 0 0 0 0
+chromophobe adenoma|0 0 0 0 0 0 1 3 0 2 3 0 2 0 0 0 1 0 0 0
+chromophobe carcinoma|0 0 1 1 1 2 2 2 1 10 10 5 2 1 11 6 2 0 0 0
+chronic myelogenous leukemia, bcr/abl positive|0 0 2 8 10 9 14 14 24 27 25 17 21 25 21 15 12 4 0 0
+chronic myeloid leukemia, nos|51 30 56 110 185 318 437 536 540 577 704 771 889 1034 1068 1126 949 593 240 66
+chronic myelomonocytic leukemia, nos|3 0 0 1 1 7 7 15 15 19 46 56 125 210 307 349 347 205 76 9
+chronic myeloproliferative disease, nos|2 0 0 2 1 2 5 13 12 29 26 29 49 65 83 105 89 50 20 4
+chronic neutrophilic leukemia|0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 3 0 0 0 1
+clear cell adenocarcinofibroma|0 0 0 0 0 0 0 0 0 1 1 0 1 2 1 2 0 1 1 0
+clear cell adenocarcinoma, nos|2 5 5 29 57 118 253 507 1076 1630 2182 2768 2811 2861 2592 1948 1138 460 99 16
+clear cell chondrosarcoma|0 0 0 0 3 0 0 1 1 1 1 1 0 0 0 2 0 0 0 0
+clear cell meningioma|0 1 0 1 1 1 0 0 4 0 0 1 1 1 1 0 0 1 0 0
+clear cell sarcoma of kidney|30 6 0 0 1 1 1 1 1 1 2 2 3 1 3 0 2 0 0 0
+clear cell sarcoma,nos (except of kidney m-8964/3)|2 1 4 13 13 11 7 7 12 11 10 10 6 2 7 3 3 1 0 0
+cloacogenic carcinoma|0 0 0 0 2 3 9 25 48 91 120 172 181 210 182 142 98 49 19 7
+collecting duct carcinoma|0 0 0 1 1 0 2 1 2 6 6 5 6 10 4 6 6 1 0 0
+comb. hepatocel. carcinoma & cholangiocarcinoma|0 0 1 1 0 1 5 2 9 20 31 17 47 41 38 38 20 5 0 1
+combined small cell carcinoma|0 0 0 0 2 0 1 3 2 17 30 60 81 113 107 82 46 12 1 0
+comedocarcinoma, non-infiltrating|0 0 0 1 4 25 114 353 923 1182 1272 1332 1057 1126 964 768 384 142 29 3
+comedocarcinoma, nos|0 0 0 0 8 71 225 450 738 885 866 817 798 721 543 405 234 103 20 7
+composite carcinoid|0 0 0 0 0 1 1 6 8 7 11 15 12 23 24 13 10 2 1 1
+composite hodgkin and non-hodgkin lymphoma|0 0 0 0 0 0 2 0 0 1 1 1 2 2 5 3 2 1 0 0
+craniopharyngioma|5 5 2 2 1 3 4 0 5 7 6 5 3 1 0 1 2 1 0 0
+cribriform carcinoma in situ|0 0 0 0 1 3 10 70 241 344 439 373 328 302 282 246 132 55 10 3
+cribriform carcinoma|0 1 0 0 2 3 12 19 38 70 72 68 81 107 123 144 85 36 13 6
+cutaneous t-cell lymphoma, nos|0 3 2 5 7 15 36 48 54 79 116 101 97 115 130 125 63 34 13 2
+cyst-associated renal cell carcinoma|0 0 0 0 0 2 7 12 20 29 23 18 17 21 30 11 8 7 2 0
+cystadenocarcinoma, nos|0 0 0 5 6 6 27 31 69 79 112 135 134 132 108 110 91 59 33 5
+dedifferentiated chondrosarcoma|0 0 0 0 0 0 0 0 0 4 4 4 1 3 3 4 9 0 0 0
+dedifferentiated chordoma|0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+dedifferentiated liposarcoma|0 0 1 0 0 2 5 10 15 15 31 20 33 41 44 30 29 10 0 1
+dermatofibrosarcoma, nos|21 24 75 113 253 400 422 473 425 364 287 220 160 109 122 71 60 22 11 2
+dermoid cyst, nos|1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 0 0 0 0
+desmoplastic infantile astrocytoma|1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+desmoplastic medulloblastoma|28 11 9 8 10 5 8 7 4 5 3 0 1 1 0 0 0 0 0 0
+desmoplastic melanoma, malignant|0 0 1 0 3 5 22 27 40 43 65 53 77 85 100 89 100 50 18 5
+desmoplastic small round cell tumor|0 1 8 3 5 6 8 4 1 0 1 0 0 1 0 1 0 0 0 0
+duct carcinoma in situ, solid type|0 0 0 0 0 4 13 42 142 186 253 240 174 182 138 156 92 37 6 4
+duct carcinoma, desmoplastic type|0 0 0 0 0 0 0 1 0 0 1 0 1 2 1 1 0 0 0 0
+dysembryoplastic neuroepithelial tumor|2 3 4 2 3 1 4 2 2 2 0 0 0 0 0 0 0 0 0 0
+dysgerminoma|0 14 43 139 132 184 135 84 50 60 51 22 21 10 7 11 2 1 0 0
+dysplastic gangliocytoma of cerebellum (lhermitte-duclos)|0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0
+eccrine adenocarcinoma|0 0 0 0 1 1 1 1 2 3 2 3 5 8 8 7 5 4 1 0
+eccrine papillary adenocarcinoma|0 0 0 0 0 0 0 3 0 3 2 0 0 0 1 0 0 0 0 0
+eccrine poroma, malignant|0 0 0 0 0 1 1 0 2 2 5 2 3 5 2 6 11 3 2 1
+embryonal carcinoma, nos|32 4 17 237 679 762 634 346 207 111 63 37 25 13 8 3 4 2 0 0
+embryonal rhabdomyosarcoma|244 166 86 106 38 21 19 13 13 6 4 12 6 9 5 2 4 1 0 1
+embryonal sarcoma|6 5 6 6 2 0 3 0 0 0 0 0 1 1 0 0 0 1 0 0
+endometrial stromal sarcoma, low grade|0 0 0 0 1 3 13 18 31 52 38 13 7 5 6 4 1 2 0 0
+endometrial stromal sarcoma|0 0 0 4 4 17 36 63 101 139 105 90 71 75 76 61 34 19 7 1
+endometrioid adenocarcinoma, ciliated cell variant|0 0 0 0 0 0 0 2 0 1 1 0 3 0 1 3 1 0 0 0
+endometrioid adenocarcinoma, secretory variant|0 0 0 0 1 1 0 4 2 4 5 4 5 4 6 2 1 0 0 0
+endometrioid adenofibroma, malignant|0 0 0 0 0 1 2 1 3 1 2 6 6 1 2 8 5 1 0 0
+endometrioid carcinoma|0 0 0 5 33 114 339 766 1404 2278 3376 3849 3511 3277 2862 2311 1624 703 215 38
+enterochromaffin cell carcinoid|0 0 0 3 1 4 7 5 4 9 18 17 28 16 26 16 9 2 1 0
+ependymoma, anaplastic|43 15 12 6 3 12 2 8 11 7 7 6 2 3 1 0 0 1 0 0
+ependymoma, nos|218 71 74 49 67 106 94 103 107 107 94 93 69 60 37 27 8 3 1 0
+epithel. mesothelioma, mal.|0 0 0 1 2 5 5 11 20 55 78 143 165 179 196 210 129 54 7 3
+epithelial-myoepithelial carcinoma|0 0 1 0 0 1 3 6 3 9 18 10 10 13 12 14 9 5 3 1
+epithelioid cell melanoma|0 1 1 3 7 8 14 13 24 28 30 50 37 56 49 38 19 15 7 1
+epithelioid hemangioendothelioma, malignant|0 0 1 6 5 2 10 12 10 6 12 8 9 7 4 8 3 1 0 0
+epithelioid leiomyosarcoma|0 1 1 6 4 8 9 19 26 47 41 56 59 55 65 37 32 18 2 0
+epithelioid sarcoma|1 6 14 24 34 18 18 24 21 20 22 14 11 14 12 15 6 4 3 1
+epithelioma, malignant|0 0 0 0 0 0 0 1 0 2 1 1 4 2 2 1 0 1 0 0
+essential thrombocythemia|1 2 1 2 12 14 18 24 44 67 66 73 91 102 110 151 106 94 18 2
+ewing sarcoma|34 127 262 296 146 76 44 30 22 16 13 5 5 4 4 2 1 0 0 1
+extra-adrenal paraganglioma, malignant|0 0 1 1 2 2 3 5 3 3 3 4 5 1 2 0 0 0 0 0
+fascial fibrosarcoma|1 0 1 1 1 2 3 4 2 2 5 5 6 3 3 2 1 2 2 0
+fetal adenocarcinoma|0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+fibrillary astrocytoma|40 36 34 24 41 54 80 56 56 46 53 44 55 63 45 23 8 5 0 1
+fibroblastic osteosarcoma|0 4 15 19 13 11 6 5 4 12 5 7 4 3 4 1 0 1 0 0
+fibromyxosarcoma|2 2 7 6 7 12 16 16 24 24 23 16 18 27 22 22 11 7 2 1
+fibrosarcoma, nos|18 13 27 44 57 67 73 77 71 76 97 90 117 98 101 104 76 43 8 1
+fibrous histiocytoma, malignant|18 19 32 84 89 116 169 198 258 308 346 460 555 640 729 692 600 328 141 30
+fibrous meningioma|0 0 0 0 1 1 5 4 8 14 17 20 9 14 7 7 3 1 0 0
+fibrous mesothelioma, malignant|0 0 0 0 0 0 3 9 11 10 23 26 54 78 84 89 62 21 6 0
+follicular adenocarcinoma trabecular|0 0 0 3 6 8 10 8 16 13 20 16 12 9 11 5 0 2 2 0
+follicular adenocarcinoma well diff.|0 1 0 9 34 53 61 52 40 52 43 40 27 36 28 20 14 4 2 1
+follicular adenocarcinoma, nos|0 3 24 73 168 266 356 382 394 382 344 309 315 302 281 221 131 74 21 4
+follicular carcinoma, minimally invasive|0 0 2 7 11 10 21 19 33 30 22 18 9 9 11 8 2 3 0 0
+follicular dendritic cell sarcoma|0 0 0 0 1 0 0 1 1 0 2 0 0 0 0 0 1 0 0 0
+follicular lymphoma, grade 1|0 0 5 6 19 100 214 360 564 750 935 1064 1082 1125 1098 796 499 252 60 9
+follicular lymphoma, grade 2|0 0 1 6 20 55 104 195 328 451 552 655 674 729 740 651 411 189 42 9
+follicular lymphoma, grade 3|0 3 3 7 11 40 65 108 180 250 290 379 395 442 439 358 261 149 29 5
+follicular lymphoma, nos|2 2 4 4 18 47 60 94 165 222 312 367 391 414 411 393 268 129 34 8
+gangliocytoma|0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0
+ganglioglioma, anaplastic|1 2 2 5 2 2 2 1 0 2 0 2 1 0 0 1 0 0 0 0
+ganglioglioma, nos|8 6 13 10 7 8 2 4 5 2 3 1 0 0 0 0 0 0 0 0
+ganglioneuroblastoma|211 46 13 10 6 3 3 1 1 1 1 2 3 3 1 3 0 0 0 0
+ganglioneuroma|0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+gastrinoma, malignant|0 0 1 1 4 1 8 13 11 11 13 16 10 12 8 6 1 0 0 0
+gastrointestinal stromal sarcoma|0 1 1 4 8 16 23 39 64 117 130 145 134 129 145 138 102 47 17 3
+gemistocytic astrocytoma|4 2 2 2 8 21 50 54 51 45 40 33 40 43 34 21 8 3 0 0
+germ cell tumor, nonseminomatous|0 0 2 13 18 24 15 18 2 3 0 0 0 0 0 0 0 0 0 0
+germinoma|4 25 83 116 104 83 68 66 49 39 17 13 9 6 3 4 1 0 0 0
+giant cell and spindle cell carcinoma|0 0 0 1 0 1 2 8 5 18 28 28 31 30 37 24 17 14 3 1
+giant cell carcinoma|0 0 0 0 1 1 4 14 27 80 97 124 151 179 162 125 70 20 9 1
+giant cell glioblastoma|4 2 4 7 10 4 6 12 13 20 5 12 16 22 15 15 3 2 0 0
+giant cell sarcoma|1 2 3 2 4 6 5 12 14 21 24 35 30 41 34 36 27 25 10 2
+giant cell tumor of bone, malignant|0 0 5 7 16 25 9 12 10 9 2 8 1 0 7 2 2 3 0 0
+glassy cell carcinoma|0 0 0 1 0 0 0 2 1 0 0 0 0 1 0 0 1 0 0 0
+glioblastoma, nos|38 68 91 103 165 240 335 540 862 1268 1877 2365 2643 2745 2727 2113 1174 426 117 10
+glioma, malignant|274 299 185 91 83 106 123 145 132 143 173 192 216 259 270 254 231 126 30 5
+gliomatosis cerebri|1 1 2 0 1 2 2 1 1 2 2 2 2 7 7 4 5 0 0 0
+gliosarcoma|0 0 1 2 1 3 8 8 14 23 30 29 35 37 47 33 21 2 1 0
+glomangiosarcoma|0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0
+glucagonoma, malignant|0 0 0 0 0 2 0 2 3 2 5 2 1 6 6 1 1 1 0 0
+glycogen-rich carcinoma|0 0 0 0 0 0 1 0 0 1 0 1 1 1 0 3 0 0 0 0
+goblet cell carcinoid|0 0 0 0 3 4 8 24 29 29 29 36 23 31 14 18 10 7 0 0
+granular cell carcinoma|0 0 2 2 2 3 15 19 40 58 74 104 135 121 136 127 78 25 6 0
+granular cell tumor, malignant|1 0 1 1 3 3 1 2 5 7 5 5 8 2 5 2 3 1 0 1
+granular cell tumor, nos|0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+granulosa cell tumor, malignant|1 2 3 9 9 24 36 49 72 93 113 91 76 73 49 42 24 11 3 0
+granulosa cell-theca cell tumor, mal.|0 0 0 0 0 0 0 0 2 2 1 1 3 1 3 0 1 0 0 0
+gynandroblastoma, malignant|0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+hairy cell leukemia|0 0 0 1 7 18 64 129 196 235 246 237 216 235 203 165 116 61 15 3
+heavy chain disease, nos|0 0 0 0 0 0 0 2 1 0 2 1 1 1 3 1 2 0 0 0
+hemangioblastoma|1 0 1 1 5 7 7 9 11 6 6 18 6 3 2 0 0 2 0 1
+hemangioendothelioma, malignant|4 2 3 6 10 3 9 6 11 15 13 8 14 12 12 15 9 4 2 1
+hemangioma, nos|1 2 0 1 4 3 2 1 3 3 4 6 2 1 0 2 1 0 0 0
+hemangiopericytoma, malignant|8 6 5 6 13 8 22 25 33 21 44 29 32 23 28 31 15 8 0 1
+hemangiopericytoma, nos|0 0 0 0 0 1 0 1 2 1 0 1 2 1 0 0 0 0 0 0
+hemangiosarcoma|4 2 2 10 27 36 47 47 57 71 78 121 115 149 152 165 125 101 38 6
+hepatoblastoma|262 17 7 4 0 1 1 0 0 0 1 0 1 2 3 1 2 0 1 0
+hepatocellular carcinoma, clear cell type|0 0 1 0 0 0 1 1 0 3 8 6 4 7 4 6 8 3 2 0
+hepatocellular carcinoma, fibrolamellar|0 1 1 11 20 11 5 9 3 5 5 3 5 5 5 4 2 1 0 0
+hepatocellular carcinoma, nos|11 19 30 30 61 94 160 288 626 1332 2006 2249 2537 2833 2910 2499 1436 634 176 26
+hepatocellular carcinoma, pleomorphic type|0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+hepatocellular carcinoma, scirrhous|0 0 0 0 0 0 0 0 0 2 2 0 0 0 1 1 1 0 0 0
+hepatocellular carcinoma, spindle cell variant|0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 2 0 0 0 0
+hepatoid adenocarcinoma|0 0 0 0 0 0 0 0 0 2 0 0 0 2 3 2 0 1 2 0
+hepatosplenic gamma-delta cell lymphoma|0 0 1 2 2 1 4 3 1 1 1 0 2 2 0 1 0 0 0 0
+high grade surface osteosarcoma|0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0
+histiocytic sarcoma|0 0 2 4 0 1 0 1 0 2 7 0 5 4 0 4 2 0 0 0
+hodgkin granuloma [obs]|0 0 1 0 4 1 5 2 2 2 1 6 0 2 4 3 3 0 0 0
+hodgkin lymph., lymphocyt. deplet., diffuse fibrosis|0 0 4 2 4 3 2 3 4 2 2 5 5 4 6 7 4 1 0 0
+hodgkin lymph., nodular lymphocyte predom.|2 9 14 36 40 63 51 51 44 37 37 29 31 8 12 9 7 1 0 0
+hodgkin lymphoma, lymphocyt. deplet., reticular|0 0 0 2 2 2 4 3 2 3 1 8 9 9 6 9 10 3 1 0
+hodgkin lymphoma, lymphocyte-rich|2 20 43 64 74 85 73 72 66 64 53 51 45 57 35 30 15 8 2 2
+hodgkin lymphoma, lymphocytic deplet., nos|0 2 19 16 20 25 41 30 24 26 47 46 52 62 85 66 35 18 11 1
+hodgkin lymphoma, mixed cellularity, nos|10 60 82 231 392 430 346 325 283 277 306 272 296 288 299 249 170 70 22 6
+hodgkin lymphoma, nod. scler., cellular phase|1 13 20 49 82 64 52 41 38 35 20 27 34 30 13 11 10 6 2 0
+hodgkin lymphoma, nod. scler., grade 1|4 7 16 33 51 42 58 45 33 18 20 13 18 11 15 14 11 5 2 0
+hodgkin lymphoma, nod. scler., grade 2|0 2 8 39 68 62 74 37 48 22 14 9 4 18 9 10 7 3 0 1
+hodgkin lymphoma, nodular sclerosis, nos|12 91 479 1418 2020 2022 1544 1073 740 523 416 365 289 311 238 195 116 55 21 5
+hodgkin lymphoma, nos|4 17 57 166 285 299 253 239 200 170 179 177 191 202 214 189 131 78 22 5
+hodgkin sarcoma [obs]|0 0 0 0 1 0 0 1 0 4 0 2 2 1 5 5 1 1 0 0
+hypereosinophilic syndrome|1 5 1 0 0 1 1 3 6 2 4 3 3 6 7 5 4 1 0 0
+immunoproliferative disease, nos|0 0 0 1 0 0 0 0 0 1 0 2 1 1 4 3 2 1 0 0
+immunoproliferative small intestinal disease|0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0
+infantile fibrosarcoma|45 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+infiltr. duct mixed with other types of carcinoma, in situ|0 0 1 0 0 12 26 109 435 611 632 660 495 457 419 376 211 91 21 2
+infiltr. duct mixed with other types of carcinoma|0 0 0 0 1 10 26 78 166 290 255 293 316 261 265 283 193 107 40 9
+infiltrating basal cell carcinoma, nos|0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 1 0
+infiltrating duct and lobular carcinoma|0 0 0 0 4 44 260 679 1517 2486 2648 2537 2474 2487 2396 2016 1339 596 174 38
+infiltrating duct carcinoma, nos|0 0 2 10 258 1848 6175 13737 24082 32559 35626 37645 38673 38866 36322 31250 21094 11040 3660 776
+infiltrating ductular carcinoma|0 0 0 0 0 1 17 40 52 76 94 110 116 129 95 68 41 34 9 3
+infiltrating lobular mixed with other types of carc.|0 0 0 0 0 0 2 3 27 37 55 57 73 70 47 52 24 16 8 1
+inflammatory carcinoma|0 0 0 0 4 31 115 204 287 413 415 415 364 296 277 205 128 82 42 7
+insular carcinoma|0 0 0 0 0 0 1 3 2 4 2 2 2 2 4 4 2 2 0 0
+insulinoma, malignant|0 0 0 0 2 1 2 2 5 0 3 3 1 3 7 5 3 0 1 0
+interdigitating dendritic cell sarcoma|0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 2 0 0 0
+intestinal t-cell lymphoma|0 0 0 0 0 1 0 0 0 2 1 2 2 2 2 1 1 2 0 0
+intracystic carcinoma, nos|0 0 0 0 2 4 7 12 25 26 25 33 50 62 70 75 70 33 15 5
+intraductal and lobular in situ carcinoma|0 0 0 0 0 4 24 77 295 481 491 361 284 255 220 144 78 30 8 2
+intraductal carcinoma, noninfiltrating, nos|0 0 0 4 19 96 343 1279 3093 4505 4725 4301 4145 4132 3752 2858 1603 633 122 20
+intraductal micropapillary carcinoma|0 0 0 0 1 2 6 30 86 127 128 103 90 90 66 68 31 13 2 0
+intraductal papillary adenocarcinoma with invasion|0 0 0 0 0 5 10 30 41 81 80 100 126 130 162 121 131 60 15 2
+intraductal papillary-mucinous carcinoma, invasive|0 0 0 0 0 0 0 0 1 1 1 3 6 9 5 3 3 0 0 0
+intraductal papillary-mucinous carcinoma, non-inv.|0 0 0 0 0 0 0 1 0 1 4 4 5 4 5 9 4 1 0 0
+intratubular malignant germ cells|1 0 3 1 2 4 2 2 2 1 0 0 0 0 0 1 0 0 0 0
+islet cell carcinoma|0 1 2 6 11 14 29 35 61 81 90 99 110 108 97 73 20 14 3 1
+juvenile myelomonocytic leukemia|13 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+juxtacortical chondrosarcoma|0 0 3 0 1 1 1 2 1 1 1 2 0 0 2 1 1 0 0 0
+kaposi sarcoma|0 0 0 11 209 1357 3045 3398 2364 1356 634 349 215 165 218 253 243 178 83 29
+klatskin tumor|0 0 0 0 0 2 0 3 1 15 24 26 23 40 62 72 64 50 22 4
+kupffer cell sarcoma|0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0
+langerhans cell histiocytosis, disseminated|54 5 3 0 2 2 2 1 2 2 2 0 1 2 3 2 0 1 0 0
+langerhans cell sarcoma|1 0 0 0 0 0 0 0 0 0 1 0 2 0 1 0 0 0 0 0
+large cell carcinoma with rhabdoid phenotype|0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+large cell carcinoma, nos|0 0 0 0 11 23 79 306 793 1460 2487 3605 4563 5100 4719 3587 1935 737 162 25
+large cell medulloblastoma|4 1 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+large cell neuroendocrine carcinoma|0 0 0 0 1 0 1 5 11 21 22 57 47 63 60 68 31 15 1 0
+leiomyosarcoma, nos|4 8 16 33 55 139 235 397 593 803 878 845 857 854 810 708 470 252 95 18
+lentigo maligna melanoma|0 0 0 1 12 16 36 93 180 311 427 611 781 949 1181 1126 867 459 179 43
+lentigo maligna|2 1 4 3 19 57 127 241 525 895 1295 1702 2135 2629 2965 2810 1943 929 286 84
+leukemia, nos|27 10 9 13 15 16 23 31 38 43 70 112 151 251 355 400 410 335 205 67
+leydig cell tumor, malignant|0 1 1 1 2 5 6 3 1 5 2 6 5 2 3 1 3 0 0 0
+linitis plastica|0 0 0 0 5 6 20 38 49 96 116 160 198 215 235 234 164 84 27 7
+lipid-rich carcinoma|0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0
+lipoma, nos|2 2 2 1 1 1 0 1 1 1 0 0 1 1 1 1 0 0 0 0
+liposarcoma, nos|0 1 0 8 9 19 47 47 59 104 105 153 149 135 160 137 115 53 20 2
+liposarcoma, well differentiated|0 0 0 1 9 14 18 46 68 68 105 130 115 125 111 112 67 22 9 1
+lobular carcinoma in situ|0 0 0 2 3 19 94 394 1322 2321 2034 1325 999 794 529 325 170 67 11 5
+lobular carcinoma, nos|0 0 1 0 6 55 204 673 1788 3163 3517 3608 3990 4412 4355 3845 2688 1434 499 98
+lymphangiosarcoma|0 0 1 1 0 0 1 1 1 3 2 4 2 2 8 5 7 2 1 0
+lymphoepithelial carcinoma|0 1 18 36 28 33 45 56 76 101 95 94 80 87 55 37 24 14 3 1
+lymphoid leukemia, nos|14 13 8 10 5 4 8 18 18 47 57 74 78 113 128 131 132 94 45 18
+mal. melanoma in giant pigmented nevus|5 0 3 2 6 4 10 16 23 19 19 19 10 9 8 6 2 2 0 0
+mal. melanoma in junctional nevus|0 0 3 3 26 25 18 26 31 29 45 34 28 23 20 18 13 6 1 1
+mal. melanoma in precan. melanosis|0 0 0 1 1 4 3 2 2 2 1 3 2 1 1 4 3 1 0 0
+malignant cystic nephroma|0 0 0 0 0 0 0 0 2 0 1 2 0 0 1 1 0 0 0 0
+malignant eccrine spiradenoma|0 0 0 0 1 0 0 1 2 3 1 2 2 1 1 0 1 1 2 0
+malignant giant cell tumor of soft parts|0 0 0 1 2 2 2 1 4 2 1 0 1 1 4 3 1 1 0 0
+malignant histiocytosis|32 9 17 12 11 12 5 14 8 12 15 18 26 28 23 21 6 12 4 0
+malignant lymphoma, non-hodgkin|56 85 103 116 138 196 310 423 502 638 835 1076 1283 1516 1579 1594 1105 608 226 43
+malignant lymphoma, nos|31 36 59 76 124 297 465 657 653 657 759 822 1138 1352 1569 1666 1348 958 400 132
+malignant mastocytosis|1 1 0 0 5 2 6 13 12 12 13 14 21 7 9 10 9 0 0 0
+malignant melanoma, nos|28 33 96 445 1109 2008 2673 3341 3903 4318 4489 4609 4471 4363 4111 3546 2570 1456 539 207
+malignant melanoma, regressing|0 0 1 0 6 15 25 26 33 38 46 40 36 40 37 36 18 11 2 2
+malignant myoepithelioma|0 1 3 0 1 0 1 2 6 2 6 1 5 6 10 2 5 3 0 0
+malignant peripheral nerve sheath tumor|5 9 26 36 51 47 46 50 63 37 54 46 51 38 42 42 23 20 2 2
+malignant placental site trophoblastic tumor|0 0 0 2 5 6 3 2 1 1 1 0 0 0 0 0 0 0 0 0
+malignant rhabdoid tumor|49 1 3 1 1 2 0 5 3 3 2 3 2 2 3 3 5 2 0 0
+malignant tenosynovial giant cell tumor|0 0 0 0 0 0 0 0 0 0 2 0 0 1 0 0 0 0 0 0
+malignant teratoma, intermediate|0 0 0 0 3 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0
+malignant teratoma, trophoblastic|0 0 0 0 0 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+malignant teratoma, undiff.|1 0 1 1 2 6 2 2 0 1 0 1 0 2 0 0 0 0 0 0
+malignant tumor, clear cell type|0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0
+malignant tumor, giant cell type|0 0 2 2 2 2 3 4 3 6 5 7 12 18 9 12 7 5 4 3
+malignant tumor, small cell type|7 8 6 4 6 2 5 7 5 10 13 24 24 26 27 27 18 12 3 0
+malignant tumor, spindle cell type|5 0 2 5 7 6 7 13 12 7 16 21 29 45 37 31 37 27 6 2
+mantle cell lymphoma|1 0 0 2 6 7 26 34 85 143 250 294 328 436 421 412 262 128 44 11
+marginal zone b-cell lymphoma, nos|0 1 3 5 15 37 53 97 132 249 277 332 344 427 529 478 383 222 46 8
+mast cell leukemia|0 0 0 0 2 1 1 0 0 0 0 1 2 0 1 0 1 0 0 0
+mast cell sarcoma|0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0
+mature t-cell lymphoma, nos|9 10 13 14 20 27 36 56 65 80 89 117 138 135 142 121 121 55 15 4
+mediastinal large b-cell lymphoma|0 0 0 2 5 8 8 4 8 2 3 1 0 2 0 0 2 0 0 0
+medullary carcinoma with amyloid stroma|1 11 26 24 29 52 72 75 99 80 94 91 90 83 78 54 34 8 3 0
+medullary carcinoma with lymphoid stroma|0 0 0 0 2 11 18 45 41 42 42 32 31 25 19 15 7 3 1 1
+medullary carcinoma, nos|0 0 9 2 29 182 452 684 840 988 922 823 722 643 503 351 219 121 39 5
+medulloblastoma, nos|299 315 167 85 82 67 50 40 20 15 11 5 4 1 1 0 0 1 0 0
+medulloepithelioma, nos|10 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+medullomyoblastoma|0 3 0 0 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0
+melanoma in situ|3 6 29 126 348 664 1068 1495 1959 2127 2281 2317 2095 2017 2015 1702 1074 480 146 47
+melanotic neurofibroma|0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+meningeal melanocytoma|0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+meningeal melanomatosis|0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+meningeal sarcomatosis|0 0 0 0 0 0 0 0 0 2 2 0 1 1 0 0 2 0 0 0
+meningioma, malignant|4 4 3 8 4 12 25 33 45 58 75 92 96 102 132 103 63 26 17 4
+meningioma, nos|2 3 3 4 9 24 49 77 144 198 218 257 237 240 293 306 297 238 89 35
+meningiomatosis, nos|0 0 0 1 0 0 0 0 2 2 1 3 0 5 3 3 2 1 1 0
+meningothelial meningioma|1 0 0 0 0 2 7 10 19 31 25 24 32 29 15 15 12 7 0 0
+merkel cell carcinoma|0 0 0 0 1 1 4 5 21 32 71 73 114 184 254 302 302 224 98 30
+mesenchymal chondrosarcoma|0 3 8 8 17 8 9 6 8 10 5 3 6 5 7 3 0 0 0 0
+mesenchymoma, malignant|13 10 7 4 7 5 5 5 9 9 9 16 14 18 19 15 11 2 1 0
+mesodermal mixed tumor|0 0 0 1 1 0 2 5 13 25 31 74 126 147 135 110 63 35 10 1
+mesonephroma, malignant|0 0 1 2 5 4 3 2 8 20 28 19 17 9 11 9 3 1 0 0
+mesothelioma, biphasic, malignant|0 0 0 1 0 0 1 2 6 7 9 28 29 38 50 44 33 10 2 1
+mesothelioma, malignant|1 0 0 6 8 17 32 48 90 160 257 399 540 718 859 826 593 259 76 8
+metaplastic carcinoma, nos|0 0 0 0 1 1 5 16 18 35 29 45 29 31 17 34 21 10 8 3
+metatypical carcinoma|0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0
+mixed cell adenocarcinoma|0 0 0 1 4 3 12 23 41 79 134 142 163 149 129 98 81 22 10 1
+mixed epithel. & spindle cell melanoma|1 2 2 4 6 12 12 22 24 50 69 67 65 99 76 70 46 23 10 1
+mixed germ cell tumor|11 9 40 224 458 501 463 308 186 86 54 22 10 6 5 2 2 0 0 1
+mixed glioma|34 26 23 40 54 78 128 107 129 90 84 68 49 52 24 19 2 5 0 0
+mixed islet cell & exocrine adenocarcinoma|0 0 0 0 0 0 0 0 2 2 6 1 2 3 0 3 1 0 0 0
+mixed medullary-follicular carcinoma|0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 1 0 0 0 0
+mixed medullary-papillary carcinoma|0 0 0 0 1 0 1 1 2 4 1 0 6 1 0 0 0 0 0 0
+mixed tumor, malignant, nos|0 0 1 2 3 10 14 11 20 30 34 44 38 53 35 40 22 17 6 2
+mixed type liposarcoma|0 0 0 0 1 3 7 10 14 16 12 14 13 18 12 10 13 1 1 0
+mixed type rhabdomyosarcoma|4 5 3 2 0 1 2 0 1 2 0 0 0 0 0 2 0 1 0 0
+ml, large b-cell, diffuse, immunoblastic, nos|5 11 11 37 70 123 249 319 327 301 274 329 400 474 507 475 328 183 40 17
+ml, large b-cell, diffuse|31 57 134 312 476 750 1111 1444 1743 2021 2519 2772 3355 4166 4796 4820 3665 2033 747 136
+ml, lymphoplasmacytic|0 0 2 3 5 8 15 25 45 59 96 122 139 166 165 174 143 73 24 6
+ml, mixed sm. and lg. cell, diffuse|1 7 9 19 36 54 73 117 178 193 280 378 505 546 642 568 397 225 79 12
+ml, small b lymphocytic, nos|7 9 7 13 27 51 87 141 272 426 641 910 1106 1365 1473 1361 1041 499 158 41
+mpnst with rhabdomyoblastic differentiation|2 1 1 1 1 3 2 2 0 1 1 3 2 0 3 1 0 0 0 0
+mucin-producing adenocarcinoma|1 0 3 11 27 89 193 330 663 1025 1625 2315 3024 3660 3981 3738 2689 1511 468 98
+mucinous adenocarcinofibroma|0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0
+mucinous adenocarcinoma, endocervical type|0 0 0 0 0 0 1 5 3 5 4 5 3 0 1 1 1 0 0 0
+mucinous adenocarcinoma|0 0 4 31 87 183 403 775 1325 2070 2769 3651 4744 6160 6993 6986 5288 3036 1040 233
+mucinous cystadenocarcinoma, non-invasive|0 0 0 1 1 2 3 3 5 1 1 1 4 1 4 2 1 0 0 0
+mucinous cystadenocarcinoma, nos|0 0 4 28 83 137 177 209 245 270 357 374 355 358 325 246 158 76 25 1
+mucinous cystic tumor of borderline malignancy (c56.9)|0 0 7 34 60 90 156 144 155 175 142 108 106 103 91 55 33 20 6 1
+mucoepidermoid carcinoma|2 15 53 74 111 166 188 232 233 317 344 349 363 378 336 267 184 99 37 9
+mucosal lentiginous melanoma|0 0 0 0 0 1 0 0 0 0 4 0 0 0 0 3 0 0 0 0
+mullerian mixed tumor|0 1 0 3 2 5 23 31 63 87 168 283 433 477 531 417 348 156 51 9
+multifocal superficial basal cell carcinoma|0 0 0 0 0 0 0 0 0 0 0 1 1 5 1 3 2 2 0 0
+multiple myeloma|0 1 0 1 9 34 109 311 678 1252 2231 3233 4219 5346 5873 5687 4247 2325 746 127
+mycosis fungoides|2 6 9 18 41 77 109 172 217 282 308 357 379 398 386 275 213 92 24 12
+myelodysplastic syndr. with 5q deletion syndrome|0 0 0 0 0 0 0 0 1 1 4 2 8 10 12 16 19 11 2 3
+myelodysplastic syndrome, nos|11 3 5 2 2 11 7 19 31 63 75 101 121 190 311 481 500 324 131 34
+myeloid leukemia, nos|16 7 4 10 19 15 46 27 36 52 61 82 150 199 278 289 293 187 78 23
+myeloid sarcoma|9 1 3 3 3 8 3 5 5 13 15 14 18 20 32 27 12 7 4 0
+myelosclerosis with myeloid metaplasia|1 0 0 0 0 2 2 7 6 11 24 30 27 49 52 63 60 22 5 1
+myosarcoma|3 0 1 0 2 2 0 2 3 4 4 3 4 3 4 4 1 2 1 0
+myxoid chondrosarcoma|0 1 4 3 2 8 16 13 20 20 20 11 17 21 13 11 3 8 0 0
+myxoid leiomyosarcoma|0 0 0 1 0 2 3 5 8 14 16 9 7 11 9 6 1 3 1 0
+myxoid liposarcoma|2 2 7 19 21 71 74 117 120 99 86 94 100 99 83 71 59 31 9 3
+myxopapillary ependymoma|0 2 2 3 2 10 7 4 6 13 11 7 0 0 3 0 0 0 0 0
+myxosarcoma|0 1 0 0 2 3 4 4 7 6 9 12 7 10 5 9 5 4 1 0
+neoplasm, benign|2 1 4 4 3 5 2 6 4 12 3 8 7 10 4 6 8 7 1 0
+neoplasm, malignant|65 28 37 60 131 183 251 371 558 921 1468 2271 3500 4773 6882 8656 10130 8987 5346 1940
+neoplasm, uncertain whether benign or malignant|0 1 2 1 3 2 5 5 4 6 6 4 8 6 10 14 23 16 11 0
+nephroblastoma, nos|1009 311 50 19 18 12 8 3 10 3 6 3 4 3 3 4 0 0 0 0
+neurilemmoma, malignant|6 4 23 27 57 47 45 52 48 47 49 54 61 49 55 55 28 11 3 1
+neurilemoma, nos|1 1 9 10 17 32 45 66 90 121 140 130 105 86 44 39 26 13 3 0
+neurinomatosis|0 0 0 0 0 0 0 0 0 0 0 0 2 0 1 0 0 0 0 0
+neuroblastoma, nos|1449 133 39 29 15 18 12 14 7 6 5 8 7 6 5 3 0 5 1 0
+neuroendocrine carcinoma|0 1 1 14 38 39 73 115 193 311 417 504 577 730 750 671 444 171 48 9
+neuroepithelioma, nos|16 3 5 7 4 6 3 7 3 5 5 2 1 8 3 2 2 0 0 0
+neurofibroma, nos|0 0 1 0 4 3 0 4 0 1 2 0 2 1 1 0 0 0 0 0
+neurofibromatosis, nos|6 5 2 0 1 0 0 2 2 0 0 0 0 0 0 0 0 0 0 0
+neuroma, nos|0 0 1 0 0 1 0 3 2 2 7 6 3 1 2 3 0 1 0 0
+nk/t-cell lymphoma, nasal and nasal-type|0 1 1 1 7 7 2 10 9 10 11 10 6 10 12 10 7 2 1 0
+nodular hidradenoma, malignant|0 1 0 2 2 1 2 3 6 8 6 5 12 22 17 9 15 7 6 1
+nodular melanoma|1 8 13 54 183 277 411 507 641 673 743 785 762 822 817 741 612 383 199 56
+non-small cell carcinoma|0 0 0 0 3 4 16 69 262 576 976 1488 1813 2039 2476 2593 1718 690 128 27
+nonencapsulated sclerosing carcinoma|0 0 1 3 5 9 15 11 13 18 27 16 9 12 8 6 6 0 0 0
+noninfiltrating intracystic carcinoma|0 0 0 0 0 0 1 4 12 22 23 30 41 61 70 57 51 34 12 1
+noninfiltrating intraductal papillary adenocarcinoma|0 0 0 0 1 10 44 94 219 311 316 292 348 399 440 347 229 85 22 5
+oat cell carcinoma|0 0 0 1 0 9 24 85 336 736 1507 2468 3224 3580 2936 1820 847 242 48 3
+odontogenic tumor, malignant|0 2 0 0 3 3 0 3 2 3 3 3 8 2 1 5 3 1 0 0
+olfactory neurcytoma|0 0 0 1 1 0 0 0 1 0 1 0 0 0 1 1 1 0 0 0
+olfactory neuroblastoma|1 1 5 8 10 10 12 15 24 40 30 35 34 29 12 19 11 5 1 0
+olfactory neuroepithelioma|0 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0
+olfactory neurogenic tumor|0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0
+oligodendroblastoma|0 0 1 1 1 2 2 5 6 6 2 5 2 1 2 1 0 0 0 0
+oligodendroglioma, anaplastic|2 3 3 4 13 39 42 41 69 53 56 41 35 41 23 21 7 7 0 0
+oligodendroglioma, nos|33 39 59 82 120 198 251 321 265 226 191 157 122 100 59 34 29 8 2 1
+osteosarcoma in paget disease|0 0 1 0 0 0 0 0 0 0 4 0 7 6 11 13 5 1 1 0
+osteosarcoma, nos|17 119 356 377 138 79 74 60 51 60 58 68 84 85 67 85 35 25 7 3
+ovarian stromal tumor, mal.|0 0 0 3 4 3 1 3 3 4 1 1 7 0 4 4 0 1 0 0
+oxyphilic adenocarcinoma|0 0 3 6 14 47 49 107 105 130 151 125 141 152 132 129 82 49 10 3
+paget dis. & infil. duct carcinoma|0 0 0 0 2 11 50 96 148 199 222 258 288 299 223 196 119 70 32 4
+paget disease and intraductal ca.|0 0 0 0 0 3 26 52 74 103 109 136 165 176 160 164 103 65 15 7
+paget disease, extramammary|0 0 0 0 0 1 0 4 12 15 27 54 95 115 135 157 116 64 12 4
+paget disease, mammary|0 0 0 0 0 1 5 20 24 47 43 68 66 76 75 73 49 37 29 5
+pancreatoblastoma|1 4 2 0 2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+papillary adenocarcinoma, nos|0 5 49 218 555 979 1249 1396 1534 1875 2281 2774 3139 3282 3147 2485 1756 906 272 63
+papillary adenoma, nos|0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0
+papillary carcinoma in situ|0 0 0 0 6 5 10 10 22 37 34 58 61 89 94 91 52 45 8 2
+papillary carcinoma, columnar cell|0 0 0 2 1 3 5 7 7 7 7 5 9 7 11 6 4 1 3 1
+papillary carcinoma, encapsulated|0 0 0 1 3 8 7 17 11 13 8 7 6 6 2 2 0 0 0 0
+papillary carcinoma, follicular variant|0 19 54 203 505 831 963 1199 1195 1130 1108 886 663 580 442 294 124 51 11 2
+papillary carcinoma, nos|1 13 90 382 990 1523 2023 2147 2090 1954 1834 1660 1689 1714 1533 1249 836 448 169 37
+papillary carcinoma, oxyphilic cell|0 0 0 1 0 1 2 1 1 2 0 0 1 0 1 0 0 0 0 0
+papillary craniopharyngioma|0 0 0 0 1 0 1 0 2 0 1 0 1 0 0 0 0 0 0 0
+papillary cystadenocarcinoma, nos|0 0 0 4 18 18 33 45 65 114 161 181 172 141 143 103 58 36 5 4
+papillary cystadenoma, borderline malignancy (c56.9)|0 0 0 3 5 6 7 8 12 7 10 9 2 7 2 1 0 0 0 0
+papillary ependymoma|2 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+papillary meningioma|0 3 0 0 0 1 0 1 1 2 0 2 2 2 1 0 0 0 0 0
+papillary microcarcinoma|0 0 1 1 7 21 36 48 66 68 71 63 55 38 19 14 4 1 3 0
+papillary mucinous cystadenocarcinoma|0 0 0 4 11 21 32 24 24 43 56 50 43 41 63 40 18 12 1 2
+papillary mucinous cystadenoma, borderline malignancy (c56.9)|0 0 1 0 5 11 9 21 13 11 7 3 4 8 11 4 3 0 0 0
+papillary serous cystadenocarcinoma|0 0 2 18 98 157 226 388 696 1111 1439 1794 2128 2037 1902 1641 928 393 87 18
+papillary squamous cell carcinoma, non-invasive|0 0 1 0 1 1 3 2 4 5 15 10 14 12 13 9 8 2 0 0
+papillary squamous cell carcinoma|0 0 0 0 4 6 18 12 28 51 67 69 101 117 85 79 61 32 21 6
+papillary trans. cell carcinoma, non-invasive|0 0 0 0 3 3 17 21 48 67 112 200 249 375 460 445 301 99 31 7
+papillary trans. cell carcinoma|0 4 7 69 162 307 544 984 1809 3124 5234 8155 11140 14519 16200 15095 10917 5790 2010 467
+paraganglioma, malignant|0 1 1 1 3 9 7 11 14 11 9 10 6 13 6 6 6 2 1 0
+paraganglioma, nos|0 0 0 0 0 0 1 1 0 2 1 1 1 0 0 0 0 0 0 0
+parosteal osteosarcoma|0 1 15 18 24 14 15 13 4 1 4 2 4 1 1 0 0 1 0 0
+perineurioma, malignant|0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+perineurioma, nos|0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+periosteal fibrosarcoma|0 0 1 1 3 2 2 0 1 1 1 3 1 5 3 0 0 0 0 0
+periosteal osteosarcoma|0 0 0 4 3 0 2 1 0 1 0 0 0 0 0 0 0 0 0 0
+peripheral neuroectodermal tumor|6 8 12 24 10 12 12 12 9 6 6 7 6 6 3 6 1 3 0 0
+pheochromocytoma|0 2 4 6 4 6 18 16 15 25 21 21 12 16 14 8 7 1 0 0
+phyllodes tumor, malignant|0 0 4 14 15 25 37 83 110 136 118 113 79 66 42 37 35 11 7 2
+pigmented dermatofibrosarcoma protuberans|1 0 3 0 4 1 5 4 7 6 1 4 0 1 1 1 1 0 0 0
+pilocytic astrocytoma|315 308 271 182 109 93 51 44 46 33 28 16 17 12 11 5 3 1 0 0
+pilomatrix carcinoma|0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+pineoblastoma|16 13 10 11 10 7 6 6 2 2 4 3 3 2 0 1 2 0 0 0
+pineocytoma|0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0
+pituitary adenoma, nos|2 6 16 33 68 68 96 80 115 113 112 131 96 76 68 74 35 28 8 0
+pituitary carcinoma, nos|0 0 0 0 0 0 0 0 1 1 1 1 0 2 0 0 0 0 0 0
+plasma cell leukemia|0 0 0 1 0 0 4 3 9 8 21 19 20 24 31 27 12 15 6 0
+plasmacytoma, extramedullary|0 0 0 0 5 6 20 28 45 55 80 107 122 123 124 96 83 35 9 1
+plasmacytoma, nos|0 0 0 1 3 5 9 28 36 72 89 91 106 86 141 84 76 29 12 1
+pleomorphic carcinoma|0 0 0 0 2 2 4 13 18 21 37 65 71 69 77 64 45 21 4 1
+pleomorphic liposarcoma|0 0 0 2 3 1 10 7 21 24 34 34 41 47 65 51 35 22 7 1
+pleomorphic rhabdomyosarcoma, adult type|2 3 1 9 5 2 5 6 8 6 10 9 12 13 12 12 14 6 4 1
+pleomorphic xanthoastrocytoma|3 6 19 19 9 7 8 3 3 4 4 2 2 3 1 0 0 0 0 0
+pleuropulmonary blastoma|3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+plexiform neurofibroma|0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+polar spongioblastoma|1 0 0 3 0 2 0 0 2 0 2 1 1 0 0 1 0 0 1 0
+polycythemia vera|3 2 0 10 5 12 23 25 51 105 107 115 130 150 142 171 122 70 23 9
+polygonal cell carcinoma|0 0 0 0 0 0 0 0 0 4 4 2 6 3 5 1 1 0 0 0
+polymorphous low grade adenocarcinoma|0 0 0 2 0 2 0 4 7 11 8 13 7 10 8 7 5 7 0 0
+precancerous melanosis, nos|1 0 0 2 6 5 9 8 11 4 9 9 10 17 4 8 2 3 2 0
+precursor b-cell lymphoblastic leukemia|275 129 69 56 31 26 22 26 29 27 27 26 18 23 19 14 3 7 0 0
+precursor b-cell lymphoblastic lymphoma|9 9 10 5 3 0 1 1 1 0 0 5 3 0 1 0 0 1 0 0
+precursor cell lymphoblastic leukemia, nos|2905 1470 855 647 361 282 270 227 204 208 232 224 249 241 240 220 203 122 41 21
+precursor cell lymphoblastic lymphoma, nos|66 84 89 86 74 74 79 51 38 40 26 39 44 42 46 36 32 13 4 0
+precursor t-cell lymphoblastic leukemia|15 13 24 16 5 8 5 3 6 7 6 1 1 1 2 2 1 1 0 0
+precursor t-cell lymphoblastic lymphoma|9 13 13 9 7 9 9 4 9 13 2 4 5 1 4 2 0 1 0 1
+primary cutan. cd30+ t-cell lymphoprolif. disorder|0 2 3 3 6 6 4 6 5 11 16 12 15 11 17 12 9 6 2 1
+primary effusion lymphoma|0 0 0 0 0 1 0 1 3 3 1 0 1 1 1 0 0 0 0 0
+primitive neuroectodermal tumor|138 71 50 42 40 31 27 22 27 18 7 12 7 3 1 5 5 1 0 0
+prolactinoma|0 0 5 5 5 6 3 11 5 3 1 1 1 4 0 0 1 0 0 0
+prolymphocytic leukemia, b-cell type|0 0 0 1 0 0 0 1 1 0 1 4 5 3 2 3 5 4 1 1
+prolymphocytic leukemia, nos|0 0 0 3 3 1 0 1 5 7 12 20 35 44 40 57 33 22 17 1
+prolymphocytic leukemia, t-cell type|0 0 0 0 0 0 0 0 1 4 5 5 4 4 7 3 3 6 0 0
+protoplasmic astrocytoma|8 2 2 6 8 11 15 6 8 4 4 7 7 1 2 2 1 0 0 0
+psammomatous meningioma|0 0 0 0 0 0 1 3 3 9 3 13 13 6 14 10 5 3 1 0
+pseudosarcomatous carcinoma|0 0 0 1 0 2 0 6 5 8 24 28 16 45 46 43 47 18 6 0
+pulmonary blastoma|3 0 1 1 3 2 0 2 0 1 0 1 3 4 0 2 1 0 0 0
+queyrat erythroplasia|0 0 0 0 2 4 5 7 4 5 10 9 16 16 8 14 9 3 1 0
+refract. anemia with excess blasts in transformation|0 0 0 0 0 0 1 0 3 1 2 6 8 5 13 16 17 8 0 0
+refractory anemia with excess blasts|0 3 1 2 1 0 3 5 11 20 29 43 63 71 111 143 154 82 19 2
+refractory anemia with sideroblasts|0 0 0 0 0 2 4 7 7 9 18 32 29 59 88 132 160 69 36 3
+refractory anemia|1 0 0 4 2 2 4 2 11 13 26 54 49 87 98 166 166 89 43 3
+refractory cytopenia with multilineage dysplasia|1 0 0 1 1 0 1 3 5 5 5 14 28 30 44 49 43 28 5 0
+renal cell carcinoma, chromophobe type|0 0 0 1 3 7 17 20 65 59 56 76 65 51 56 83 42 13 3 0
+renal cell carcinoma, sarcomatoid|0 0 0 0 0 0 2 6 15 19 26 32 41 32 34 31 13 3 3 1
+renal cell carcinoma|6 7 17 35 65 163 361 813 1520 2424 3396 4311 4968 5465 5151 4309 2723 1306 417 86
+retinoblastoma, differentiated|41 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+retinoblastoma, diffuse|1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+retinoblastoma, nos|604 30 3 2 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+retinoblastoma, undifferentiated|39 3 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+rhabdomyosarcoma with ganglionic differentiation|2 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+rhabdomyosarcoma, nos|48 39 31 34 27 15 14 15 14 23 26 26 30 38 39 33 31 17 5 0
+round cell liposarcoma|0 0 0 1 1 3 12 15 9 19 10 11 9 5 4 9 3 2 2 0
+sarcoma, nos|30 20 50 56 77 98 91 130 153 170 222 260 280 314 303 310 284 176 74 26
+schneiderian carcinoma|0 0 0 0 0 0 0 1 1 1 3 3 2 5 2 3 1 1 0 0
+scirrhous adenocarcinoma|0 0 0 0 0 9 24 72 130 210 301 349 427 402 409 374 259 141 48 9
+sclerosing sweat duct carcinoma|0 0 1 0 1 2 2 2 3 5 11 15 15 10 12 13 10 8 6 0
+sebaceous adenocarcinoma|0 0 0 0 1 2 4 11 12 43 34 59 66 97 107 129 120 66 31 14
+secretory carcinoma of breast|0 0 2 3 1 1 5 1 7 5 9 9 3 4 5 5 6 1 2 1
+seminoma, anaplastic|1 0 0 9 34 105 121 112 83 54 32 19 23 14 7 8 4 1 0 0
+seminoma, nos|0 0 4 79 611 1547 2103 2003 1502 898 486 262 144 97 51 37 13 8 3 1
+serous adenocarcinofibroma|0 0 0 0 0 0 0 1 0 1 1 1 3 1 0 1 0 0 0 0
+serous cystadenocarcinoma, nos|0 0 0 5 14 42 60 101 218 377 475 563 687 667 586 457 298 95 34 3
+serous cystadenoma, borderline malignancy (c56.9)|0 0 1 20 38 75 80 114 130 116 99 82 67 75 62 43 21 11 6 1
+serous papillary cystic tumor of borderline malignancy (c56.9)|0 0 3 22 70 108 165 194 192 185 150 119 87 89 101 76 28 11 2 1
+serous surface papillary carcinoma|0 0 0 1 9 21 30 65 96 181 242 325 390 411 344 323 173 77 18 2
+sertoli cell carcinoma|0 1 1 4 3 1 1 1 4 2 3 0 2 0 1 1 0 1 0 0
+sertoli-leydig cell tumor, poorly differentiated|0 0 1 10 6 2 2 2 1 0 3 3 1 1 3 2 3 0 0 0
+sertoli-leydig cl tum., p.d. w heterologous elements|0 0 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+sezary syndrome|0 0 0 1 1 0 1 4 3 4 6 12 12 14 15 13 19 7 1 1
+signet ring cell carcinoma|0 0 4 11 48 98 189 312 497 613 816 1032 1171 1431 1482 1370 1062 587 195 49
+skin appendage carcinoma|0 0 3 4 7 5 14 19 19 41 40 44 40 55 66 57 49 23 7 1
+small cell carcinoma, fusiform cell|0 0 0 0 0 0 0 0 2 4 8 13 11 20 14 4 5 2 0 0
+small cell carcinoma, intermediate cell|0 0 0 0 0 1 3 10 18 54 125 181 263 341 276 236 123 34 3 1
+small cell carcinoma, nos|5 1 4 13 31 54 88 275 782 1755 3540 5950 7866 9277 8854 6773 3469 1175 237 24
+small cell osteosarcoma|0 0 1 3 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0
+small cell sarcoma|0 1 9 15 9 6 9 4 5 4 3 6 3 1 6 3 3 0 0 0
+solid carcinoma, nos|0 0 0 1 0 0 2 4 16 17 27 29 30 27 29 23 24 8 2 0
+solid pseudopapillary carcinoma|0 0 0 1 1 1 1 2 3 5 1 2 1 0 0 1 0 0 0 0
+solitary fibrous tumor, malignant|0 0 0 0 0 1 1 2 2 6 3 8 12 4 6 2 2 1 0 0
+solitary fibrous tumor|0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 1 0 0 0 0
+somatostatinoma, malignant|0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0
+spermatocytic seminoma|0 0 0 1 4 8 10 10 8 15 11 8 12 13 6 10 8 2 1 1
+spindle cell carcinoma|0 1 0 0 0 2 8 17 28 32 42 78 99 114 121 113 81 34 16 1
+spindle cell melanoma, nos|0 5 6 10 20 34 31 51 56 84 92 117 134 141 134 138 110 67 42 9
+spindle cell melanoma, type a|0 0 0 3 1 1 2 0 4 3 3 6 7 5 3 5 1 3 0 0
+spindle cell melanoma, type b|0 0 2 3 7 7 25 14 25 43 57 56 55 51 64 30 26 8 4 0
+spindle cell rhabdomyosarcoma|2 1 0 3 0 1 1 0 0 0 1 0 1 0 0 1 0 0 0 0
+spindle cell sarcoma|4 9 8 18 26 24 33 39 63 49 91 105 93 89 102 117 81 51 17 6
+spindle epithelial tumor with thymus-like element|0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+splenic marginal zone b-cell lymphoma|0 0 0 0 0 0 0 1 3 12 16 22 22 21 19 30 23 8 2 0
+sq. cell carc. in situ with question. stromal invas.|0 0 0 1 7 8 12 9 5 8 3 5 9 4 4 4 3 1 1 0
+sq. cell carcinoma, keratinizing, nos, in situ|0 0 0 6 28 63 78 58 39 35 19 30 35 32 22 21 8 7 1 0
+sq. cell carcinoma, keratinizing, nos|1 0 0 6 46 148 367 584 913 1404 1957 2618 3159 3419 3331 2545 1540 763 242 66
+sq. cell carcinoma, lg. cell, non-ker., in situ|0 0 0 5 34 88 85 57 29 19 18 17 10 14 1 5 2 1 1 2
+sq. cell carcinoma, lg. cell, non-ker.|0 0 0 4 34 222 368 460 596 632 693 873 965 1050 911 663 384 177 49 8
+sq. cell carcinoma, micro-invasive|0 0 0 17 128 490 607 555 477 356 260 210 213 214 161 94 66 19 3 3
+sq. cell carcinoma, sm. cell, non-ker.|0 0 0 0 0 8 11 12 15 23 20 31 39 42 48 34 14 2 0 0
+sq. cell carcinoma, spindle cell|0 0 0 0 3 0 2 8 15 18 49 61 66 79 112 77 55 28 9 2
+squamous cell carcinoma in situ, nos|0 3 13 1081 7328 13576 11890 7919 5291 3455 2504 2169 2045 2142 1691 1163 717 271 68 44
+squamous cell carcinoma with horn formation|0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+squamous cell carcinoma, adenoid|0 0 0 0 0 1 0 3 1 5 7 8 12 17 9 13 4 3 3 0
+squamous cell carcinoma, clear cell type|0 0 0 0 0 0 0 1 0 4 1 2 1 4 2 2 1 2 0 0
+squamous cell carcinoma, nos|2 5 21 57 406 1347 2593 4188 7300 12939 20402 28976 36422 40029 37493 28758 16792 7366 2216 514
+squamous intraepithelial neoplasia, grade iii|0 0 14 1121 3989 4900 4027 2955 2223 1586 1037 737 516 464 360 221 140 61 19 157
+steroid cell tumor, malignant|0 0 0 0 0 0 0 1 0 0 1 2 1 1 0 0 1 0 0 0
+stromal sarcoma, nos|0 0 1 0 2 2 3 12 15 26 19 21 20 18 16 18 6 7 4 1
+struma ovarii, malignant|0 0 0 0 1 1 2 1 3 4 1 1 0 0 1 1 0 0 0 0
+subcutaneous panniculitis-like t-cell lymphoma|0 0 0 2 0 0 0 3 1 0 3 5 2 4 2 2 2 0 0 0
+subependymoma|0 0 0 1 1 2 2 2 4 4 3 7 3 1 1 1 0 1 0 0
+supependymal giant cell astrocytoma|2 4 3 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+superficial spreading adenocarcinoma|0 0 0 0 0 2 2 3 5 14 13 19 22 30 29 16 18 7 2 1
+superficial spreading melanoma, in situ|2 0 5 35 103 238 332 441 509 480 478 432 385 354 294 246 124 63 19 7
+superficial spreading melanoma|0 10 50 329 1064 2127 3244 3908 4329 4259 4129 3946 3589 3116 2710 2047 1227 596 175 74
+sweat gland adenocarcinoma|0 0 1 1 3 10 8 8 18 24 25 30 42 34 52 37 35 17 13 5
+synovial sarcoma, biphasic|0 6 13 21 18 14 20 13 12 11 6 9 3 5 3 1 0 1 0 0
+synovial sarcoma, epithelioid cell|0 0 0 0 0 1 1 2 0 0 1 0 2 1 0 0 0 0 0 0
+synovial sarcoma, nos|2 11 41 44 67 67 49 52 42 31 37 28 23 19 14 17 8 3 0 0
+synovial sarcoma, spindle cell|1 2 9 21 14 19 21 19 13 9 15 18 4 3 4 5 1 0 0 0
+telangiectatic osteosarcoma|2 4 13 10 6 3 3 1 2 0 2 1 0 2 1 0 3 0 0 0
+teratocarcinoma|6 4 22 209 457 413 285 145 74 46 18 8 10 11 4 2 0 2 0 1
+teratoid medulloepithelioma|1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+teratoma with malig. transformation|0 0 0 2 1 3 2 2 4 1 5 3 4 3 3 0 1 0 0 0
+teratoma, benign|1 1 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+teratoma, malignant, nos|141 32 90 178 223 204 163 93 37 25 15 8 6 10 5 7 4 1 0 0
+thecoma, malignant|0 0 0 1 2 0 1 2 0 3 2 1 5 3 5 1 1 1 0 0
+therapy-related acute myeloid leukemia, nos|0 1 1 1 1 0 0 2 1 4 1 4 2 6 2 2 2 2 0 0
+therapy-related myelodysplastic syndrome, nos|2 0 0 1 0 2 1 4 3 4 5 9 9 5 12 18 8 3 0 0
+thymic carcinoma, nos|0 0 0 0 0 1 2 4 7 12 5 9 11 8 12 8 1 2 0 0
+thymoma, malignant, nos|1 3 4 6 22 32 39 53 71 101 93 118 105 112 84 66 33 15 1 0
+thymoma, type a, malignant|0 0 0 0 0 0 0 0 0 2 3 1 4 8 2 6 3 2 1 0
+thymoma, type ab, malignant|0 0 1 0 1 4 1 0 3 6 6 1 5 5 7 2 1 2 0 0
+thymoma, type b1, malignant|0 0 1 1 1 0 6 2 5 8 3 9 6 2 6 10 5 1 0 0
+thymoma, type b2, malignant|0 0 0 0 0 1 3 0 3 3 5 4 6 0 0 1 3 0 0 0
+thymoma, type b3, malignant|0 0 0 0 0 2 5 4 5 8 6 9 8 14 9 5 2 1 1 0
+trabecular adenocarcinoma|0 0 0 1 2 2 4 5 0 7 11 20 15 23 21 40 15 12 4 2
+trans. cell carcinoma, spindle cell|0 0 0 0 0 1 1 0 2 2 6 8 14 12 10 27 22 13 4 0
+transitional cell carcinoma in situ|0 0 0 1 2 1 5 4 8 22 40 70 99 148 200 181 99 42 12 6
+transitional cell carcinoma, micropapillary|0 0 0 0 0 0 0 0 1 0 1 1 3 5 6 0 7 3 0 1
+transitional cell carcinoma, nos|0 1 4 14 36 68 144 290 605 1228 2256 3743 5727 7436 8307 8332 6635 3745 1368 304
+transitional meningioma|2 0 0 1 2 2 5 7 10 19 14 22 14 16 9 11 6 2 2 0
+trophoblastic tumor, epithelioid|0 0 0 0 1 0 1 6 1 0 0 0 0 0 0 0 0 0 0 0
+tubular adenocarcinoma|0 1 0 1 0 4 27 110 343 663 802 733 797 826 782 640 406 150 45 7
+tumor cells, benign|0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+tumor cells, malignant|2 0 1 4 6 12 15 33 53 99 161 225 371 532 604 550 465 288 115 39
+undifferentiated sarcoma|2 1 2 4 1 0 1 0 0 2 2 2 3 1 4 4 0 0 0 0
+venous hemangioma|0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0
+verrucous carcinoma, nos|0 0 0 1 3 10 25 31 50 69 112 154 203 204 233 189 216 113 46 14
+villous adenocarcinoma|0 0 0 0 2 3 5 9 16 25 36 51 109 115 123 96 94 60 14 0
+vipoma|0 0 0 0 0 0 0 0 1 1 2 2 2 1 2 0 0 0 0 0
+waldenstrom macroglobulinemia|0 1 0 0 1 0 7 14 20 48 92 120 149 198 255 297 220 120 38 5
+warthin tumor, malignant|0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+water-clear cell adenocarcinoma|0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+yolk sac tumor|165 14 25 58 80 86 59 32 24 12 11 4 3 6 3 1 0 0 1 0

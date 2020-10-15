@@ -1,0 +1,102 @@
+Context. Abbreviations are used frequently in pathology reports and
+medical records. Efforts to identify and organize free-text concepts
+must correctly interpret medical abbreviations. During the past
+decade, the author has collected more than 12000 medical
+abbreviations, concentrating on terms used or interpreted by
+pathologists.  
+
+Objective. The purpose of the study is to provide readers with a
+listing of abbreviations. The listing of abbreviations is reviewed for
+the purpose of determining the variety of ways that long forms are
+shortened.  
+
+Design. Abbreviations fell into different classes. These classes
+seemed amenable to distinct algorithmic approaches to their correct
+expansions. A discussion of these abbreviation classes was included to
+assist informaticians who are searching for ways to write software
+that expands abbreviations found in medical text. Classes were
+separated by the algorithmic approaches that could be used to map
+abbreviations to their correct expansions. A Perl implementation was
+developed to automatically match expansions with Unified Medical
+Language System concepts.  
+
+Measurements. The abbreviation list contained 12097 terms; 5772
+abbreviations had unique expansions. There were 6325 polysemous
+abbreviation/expansion pairs. The expansions of 8599 abbreviations
+mapped to Unified Medical Language System concepts. Three hundred
+twenty-four abbreviations could be confused with unabbreviated words.
+Two hundred thirteen abbreviations had different expansions depending
+on whether the American or the British spellings were used. Nine
+hundred seventy abbreviations ended in the letter s.  
+
+Results. There were 6 nonexclusive groups of abbreviations classed by
+expansion algorithm, as follows: (1) ephemeral; (2) hyponymous; (3)
+monosemous; (4) polysemous; (5) masqueraders of common words; and (6)
+fatal (abbreviations whose incorrect expansions could easily result in
+clinical errors).  
+
+Conclusion. Collecting and classifying abbreviations creates a logical
+approach to the development of class-specific algorithms designed to
+expand abbreviations. A large listing of medical abbreviations is
+placed into the public domain. The most current version is available
+at http://www.julesberman.info/abbtwo.htm  
+
+Expanding and removing the ambiguity from abbreviations is one of the
+more challenging issues in natural language parsing. Collecting and
+classifying abbreviations is a necessary exercise. It is the first
+step toward developing algorithmic strategies to assign the correct
+expansions for medical abbreviations parsed from text.  
+Most medical abbreviations were no doubt invented as time-savers for
+health professionals. These same abbreviations can waste the time of
+those persons tasked with organizing, indexing, searching, or
+interpreting medical text. Those reading a medical record are expected
+to know that ga occurring within an obstetric history usually means
+gestational age, while ga occurring within a dermatologic history
+usually means granuloma annulare. Automatic indexers and machine
+translators of medical text require large and accurate lists of
+medical abbreviations and accurate algorithms to find abbreviations
+within text and to map the abbreviations to their correct expansions.
+Also required is an understanding of the types of problems encountered
+when abbreviations are expanded.  
+
+A PubMed search on biomedical AND abbreviations reveals that most
+literature contributions to the field consist of outraged editorials
+and letters decrying the inappropriate use of abbreviations.
+Strangely, the problem of correctly expanding free-text abbreviations
+into standard terminology has received very little serious attention
+in the medical informatics literature.1-3 In an early study in which
+the words from medical reports were enumerated, there was no mention
+whatsoever of abbreviations.4 Recently, Liu et al3 studied a set of
+abbreviations that could be algorithmically extracted from the Unified
+Medical Language System (UMLS), extracting 163666
+abbreviation/expansion pairs.3 These authors noted that many
+abbreviations have multiple different expansions and that the
+expansions cannot always be disambiguated based on separating
+abbreviations by their knowledge domain. Liu et al3 indicated that
+methods are needed to remove the ambiguity from ambiguous
+abbreviations. The current study involves a hand-annotated listing of
+about 12000 abbreviations, many of which were encountered in pathology
+reports and pathology literature.  
+
+Medical abbreviations come in 2 forms: acronyms and shortened words.
+Acronyms are character strings usually composed from the first letters
+of a text phrase. Many acronyms are noun phrases. A straightforward
+example is CABG, which stands for coronary artery bypass graft.  
+There are relatively few abbreviations for adjectives. Examples
+include the following: AP = anterior-posterior; L = left. There are
+almost no abbreviations for verbs.  
+
+A shortened form is a subset of letters taken from a word; the letters
+almost always maintain the same relative order as their original
+appearance in the word, and usually they are taken from the beginning
+of the word. An example is ceph, which stands for cephalosporin.  
+In this article, I provide a useful resource to pathology
+informaticians, a listing of more than 12000 abbreviations organized
+by polysemy. Upon review of the abbreviations, the author noted that
+the abbreviations could be classified by the algorithmic approaches
+needed for their correct interpretation. Such a classification may be
+of value to informaticians who are designing software to expand
+medical abbreviations. The review of abbreviations and the discussion
+of the classes of abbreviations are provided with the expectation that
+they may have value for programmers in the field. The implementations
+of classed algorithms will be the subject of future efforts.

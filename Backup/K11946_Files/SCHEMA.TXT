@@ -1,0 +1,204 @@
+<rdfs:Class rdf:ID="Neoplasm">
+  <rdfs:subClassOf 
+       rdfs:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+</rdfs:Class>
+                                          
+<rdfs:Class rdf:ID="Neural_tube_parenchyma">
+  <rdfs:subClassOf 
+       neo:resource="#Neural_tube"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Sub_coelomic">
+  <rdfs:subClassOf 
+       neo:resource="#Mesoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Endoderm_or_ectoderm">
+  <rdfs:subClassOf 
+       neo:resource="#Neoplasm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Neural_crest">
+  <rdfs:subClassOf 
+       neo:resource="#Neoplasm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Germ_cell">
+  <rdfs:subClassOf 
+       neo:resource="#Neoplasm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Sub_coelomic_gonadal">
+  <rdfs:subClassOf 
+       neo:resource="#Sub_coelomic"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Molar">
+  <rdfs:subClassOf 
+       neo:resource="#Trophectoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Neural_crest_endocrine">
+  <rdfs:subClassOf 
+       neo:resource="#Neural_crest"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Sub_coelomic_endocrine">
+  <rdfs:subClassOf 
+       neo:resource="#Sub_coelomic"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Fibrous_tissue">
+  <rdfs:subClassOf 
+       neo:resource="#Connective_tissue"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Mesoderm_primitive">
+  <rdfs:subClassOf 
+       neo:resource="#Mesoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Trophectoderm">
+  <rdfs:subClassOf 
+       neo:resource="#Neoplasm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Sub_coelomic_nephric">
+  <rdfs:subClassOf 
+       neo:resource="#Sub_coelomic"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Vascular">
+  <rdfs:subClassOf 
+       neo:resource="#Connective_tissue"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Germinoma">
+  <rdfs:subClassOf 
+       neo:resource="#Germ_cell"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Endoderm_or_ectoderm_parenchymal">
+  <rdfs:subClassOf 
+       neo:resource="#Endoderm_or_ectoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Peripheral_nervous_system">
+  <rdfs:subClassOf 
+       neo:resource="#Neural_crest"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Coelomic_ductal">
+  <rdfs:subClassOf 
+       neo:resource="#Coelomic"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Coelomic_gonadal">
+  <rdfs:subClassOf 
+       neo:resource="#Coelomic"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Trophoblast">
+  <rdfs:subClassOf 
+       neo:resource="#Trophectoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Muscle">
+  <rdfs:subClassOf 
+       neo:resource="#Connective_tissue"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Mesenchyme">
+  <rdfs:subClassOf 
+       neo:resource="#Mesoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Neural_crest_primitive">
+  <rdfs:subClassOf 
+       neo:resource="#Neural_crest"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Ectomesenchymal">
+  <rdfs:subClassOf 
+       neo:resource="#Neural_crest"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Neural_tube">
+  <rdfs:subClassOf 
+       neo:resource="#Neuroectoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Neuroectoderm">
+  <rdfs:subClassOf 
+       neo:resource="#Neoplasm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Connective_tissue">
+  <rdfs:subClassOf 
+       neo:resource="#Mesenchyme"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Melanocytic">
+  <rdfs:subClassOf 
+       neo:resource="#Neural_crest"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Neural_tube_lining">
+  <rdfs:subClassOf 
+       neo:resource="#Neural_tube"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Mesoderm">
+  <rdfs:subClassOf 
+       neo:resource="#Neoplasm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Coelomic">
+  <rdfs:subClassOf 
+       neo:resource="#Mesoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Bone_cartilage">
+  <rdfs:subClassOf 
+       neo:resource="#Connective_tissue"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Coelomic_cavity">
+  <rdfs:subClassOf 
+       neo:resource="#Coelomic"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Heme_lymphoid">
+  <rdfs:subClassOf 
+       neo:resource="#Mesenchyme"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Adipose_tissue">
+  <rdfs:subClassOf 
+       neo:resource="#Connective_tissue"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Neuroectoderm_primitive">
+  <rdfs:subClassOf 
+       neo:resource="#Neuroectoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Endoderm_or_ectoderm_primitive">
+  <rdfs:subClassOf 
+       neo:resource="#Endoderm_or_ectoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Teratoma">
+  <rdfs:subClassOf 
+       neo:resource="#Germ_cell"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Endoderm_or_ectoderm_surface">
+  <rdfs:subClassOf 
+       neo:resource="#Endoderm_or_ectoderm"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="Endoderm_or_ectoderm_endocrine">
+  <rdfs:subClassOf 
+       neo:resource="#Endoderm_or_ectoderm"/>
+</rdfs:Class>

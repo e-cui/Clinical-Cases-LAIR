@@ -1,0 +1,104 @@
+<p>No authors have competing interests.</p>
+<p>‡ These authors jointly supervised the work.</p>
+<p>Worldwide, testing capacity for SARS-CoV-2 is limited and bottlenecks in the scale up of polymerase chain reaction (PCR-based testing exist. Our aim was to develop and evaluate a machine learning algorithm to diagnose COVID-19 in the inpatient setting. The algorithm was based on basic demographic and laboratory features to serve as a screening tool at hospitals where testing is scarce or unavailable. We used retrospectively collected data from the UCLA Health System in Los Angeles, California. We included all emergency room or inpatient cases receiving SARS-CoV-2 PCR testing who also had a set of ancillary laboratory features (n = 1,455) between 1 March 2020 and 24 May 2020. We tested seven machine learning models and used a combination of those models for the final diagnostic classification. In the test set (n = 392), our combined model had an area under the receiver operator curve of 0.91 (95% confidence interval 0.87–0.96). The model achieved a sensitivity of 0.93 (95% CI 0.85–0.98), specificity of 0.64 (95% CI 0.58–0.69). We found that our machine learning algorithm had excellent diagnostic metrics compared to SARS-CoV-2 PCR. This ensemble machine learning algorithm to diagnose COVID-19 has the potential to be used as a screening tool in hospital settings where PCR testing is scarce or unavailable.</p>
+<p>
+<p>
+<p>
+<p>
+<p>We retrospectively considered all cases that were tested for SARS-CoV-2 in the emergency room or inpatient setting within the UCLA Health System between 1 March 2020 and 24 May 2020. After constructing our initial pool of cases, we included only cases with complete blood counts and at least one inflammatory marker (C-reactive protein, ferritin, or LDH) within 48 hours of the sample collection for SARS-CoV2 PCR testing.</p>
+<p>All data were extracted from the electronic medical record. Features included in the models were age, gender, hemoglobin, red blood cell count, absolute neutrophil, absolute lymphocyte, absolute eosinophil and absolute basophil counts, the neutrophil to lymphocyte ratio, C-reactive protein, ferritin, and LDH. Prior to entering the model, all features were normalized to have zero mean and unit standard deviation. The normalization parameters (e.g., mean and standard deviation) were computed using the training set, and the features in the test set were scaled using these values. After scaling, missing lab values were imputed with zero, effectively inserting the mean feature value from the training set. Mean imputation was determined appropriate after evaluating several imputation methods (K-nearest neighbor and Iterative Imputation), which did not result in significant improvements.</p>
+<p>Diagnosis of SARS-CoV-2 was confirmed by PCR testing assays performed at the UCLA Microbiology Laboratory. These assays included the 2019-nCoV Real-Time (RT)-PCR Diagnostic Panel (CDC, Atlanta, GA), the Diasorin Simplexa COVID-19 Direct RT-PCR (Diasorin Molecular LLC, Cypress, CA), the TaqPath COVID-19 Combo Kit (Thermo Fisher Scientific Inc., Waltham, MA).</p>
+<p>We compared seven machine learning models: Random forest, logistic regression, support vector machine, multilayer perceptron (neural network), stochastic gradient descent, XGBoost, and ADABoost. An ensemble (combined) model was then created based on those seven individually trained machine learning models. The final classification as positive or negative was decided using the majority vote of the classifiers calculated by averaging their respective probabilities. The dataset was split 60% for training, 10% for validation, and 30% for testing. The discriminatory operating threshold was determined using a validation set held out from the training set and selected such that the sensitivity on the validation set would be above a predefined threshold of 0.95 by configuring the beta parameter of the F-score. The resulting model was then evaluated on the held-out test set using the following diagnostic metrics: area under the receiver operator curve (AUROC), area under the precision recall curve (AUPRC), sensitivity, specificity, negative predictive value (NPV), and positive predictive value (PPV). Confidence intervals were constructed for each metric using a bootstrapping procedure on the test set in which the test set was repeatedly resampled with replacement 1000 times. Feature importance was assessed using a permutation test on importance. To test the contribution of each feature to model performance, the feature values were randomly shuffled, thereby disrupting their correlations with the outcome, and the decrease in model performance (f1-score) was recorded. All machine learning analyses were performed using Python, making extensive use of the Scikit-learn package.</p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>A) Receiver operator curve. B) Precision-recall curve. At a sensitivity-optimized operating threshold, sensitivity and specificity were 0.93 (95% CI 0.85–0.98) and 0.64 (95% CI 0.59–0.69), respectively. Red solid lines were the mean receiver operator curve and mean precision-recall curve, respectively; the purple shaded lines were the curves obtained from the bootstrapping procedure to calculate the 95% confidence intervals.</p>
+<p>Decrease in model performance (f1-score) after randomly shuffling the respective feature values. Higher values represent important features for classification. Abbreviations: LDH, lactate dehydrogenase; NLR, neutrophil to lymphocyte ratio; RBC, red blood cells.</p>
+<p>
+<p>All analyses were performed on the held-out test set (N = 392). A) Receiver operating curve. B) Precision-recall curve. Base model includes only demographic features and complete blood cell count. Abbreviations: CRP, C-reactive protein; LDH, lactate dehydrogenase.</p>
+<p>This is the largest study to date using a machine learning algorithm as a proxy to diagnose COVID-19. We built the algorithm based on a set of basic demographic characteristics and frequently obtained blood biomarkers that could be easily obtained in many hospital settings. Thus, the most likely application of the approach presented in this work is the use of these biomarkers as a proxy for testing in locations where COVID-19 testing is scarce. We showed a high sensitivity for COVID-19 diagnosis when compared to SARS-CoV-2 RT PCR testing as the gold standard. The blood biomarkers included in the model can be obtained with a single blood draw and turnaround time is typically within 24 hours at most hospital centers with laboratory capabilities. Due to the model’s high sensitivity and rapid turnaround time, the proposed algorithm lends itself to practical use in hospital facilities as a screening tool. At the time of submission, this model was being actively developed into a web or mobile application, whereby a clinician inputs the obtained values and receives immediate prediction on the probability of a particular patient having COVID-19. Further validation will be required to ascertain its performance in other medical centers.</p>
+<p>
+<p>
+<p>In summary, by using readily available laboratory tests combined with machine learning we achieved a high sensitivity comparable to that of PCR. This machine learning modality may be especially useful as a screening test in smaller medical centers or those in resource-poor regions that may have limited capacity for COVID-19 PCR-based diagnosis, or in instances were testing capacity is in danger due to low supplies. Further validation is necessary in diverse geographic settings and in a prospective manor to be used is a reliable tool to support clinical decision making.</p>
+<p>(PDF)</p>
+<p>This paper was transferred from another journal. As a result, its full editorial history (including decision letters, peer reviews and author responses) may not be present.</p>
+<p>
+<p>A m achine learning algorithm to increase COVID-19 inpatient diagnostic capacity</p>
+<p>PONE-D-20-20126</p>
+<p>Dear Dr. Goodman-Meza,</p>
+<p>We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.</p>
+<p>Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication.</p>
+<p>
+<p>
+<p>Kind regards,</p>
+<p>Ryan J. Urbanowicz, Ph.D.</p>
+<p>Academic Editor</p>
+<p>PLOS ONE</p>
+<p>Additional Editor Comments (optional):</p>
+<p>Reviewers' comments:</p>
+<p>Reviewer's Responses to Questions</p>
+<p>
+<p>1. Is the manuscript technically sound, and do the data support the conclusions?</p>
+<p>
+<p>Reviewer #1: Partly</p>
+<p>Reviewer #2: Yes</p>
+<p>**********</p>
+<p>
+<p>Reviewer #1: Yes</p>
+<p>Reviewer #2: Yes</p>
+<p>**********</p>
+<p>
+<p>
+<p>Reviewer #1: No</p>
+<p>Reviewer #2: No</p>
+<p>**********</p>
+<p>
+<p>
+<p>Reviewer #1: Yes</p>
+<p>Reviewer #2: Yes</p>
+<p>**********</p>
+<p>
+<p>
+<p>Reviewer #1: * Yes, the manuscript is technically sound. The only reason I said "Partly" to question 1 above is that for reasons out of the authors' control, the sample size is somewhat small. However, as they say, there is the (very exciting) prospect that such work can lead to data-sharing, particularly among hospitals in diverse regions for data-diversity, leading to much larger training data-sets and hence, more-accurate models for realistic data.</p>
+<p>* The statistical analysis is rigorous.</p>
+<p>* The answer to question 3 is "No" since the data is anonymized medical-center data: the authors say "The datasets generated during and/or analyzed during the current study are not publicly available due to institutional restrictions on data sharing and privacy concerns. However, the data can be available from the corresponding author on reasonable request. All code necessary to perform the analyses will be available on a public repository by the time of publication." I think this is reasonable, and really the best that can be expected under the circumstances.</p>
+<p>* The paper is well-written in general, but I have one technical question (see (e) below) and a few minor comments:</p>
+<p>(a) Page 9: "pandemic status research" -> pandemic status, research"</p>
+<p>(b) Hyphenate multi-word adjectives throughout: e.g., as in "machine-learning algorithm"</p>
+<p>(c) Page 10: "from UCLA Health System" -> "from the UCLA Health System"</p>
+<p>(d) Page 10: "non-human subjects" -> "non-human-subjects"</p>
+<p>(e) Page 10, on normalizing all features: How do you do such normalization for gender -- a discrete feature with very small support?</p>
+<p>Reviewer #2: The paper by Goodman-Meza et al. describes an ensemble machine learning algorithm for the diagnosis of COVID-19. Specifically, using the largest available dataset of patients testing for COVID-19 in the hospital setting, the authors make use of demographic and laboratory features to obtain highly accurate predictions. Their results are comparable to the gold-standard PCR test. This work is particularly valuable for COVID-19 diagnosis at hospitals with limited resources or where standard testing is too slow. Despite the limitation of generalizability, overall this research provides a useful model for the diagnosis of COVID-19 in the hospital setting.</p>
+<p>Patients were excluded from the analysis if they did not have a CBC and at least one inflammatory lab value. Patients who tested positive for COVID-19 were more likely to be older, male, and not immunosuppressed. Drawing upon recent literature, the authors chose age, gender, seven features from blood cell counts, and three inflammatory markers as features for their model. Missing data was imputed post-normalization using the mean values.</p>
+<p>Using seven machine learning models, the authors created an ensemble machine learning algorithm which classified patients as positive or negative using a majority vote. The data was split 60/10/30 for training, validation, and testing, as is standard for many machine learning analyses, the. AUROC, AUPRC, NPV, PPV, sensitivity and specificity were reported on the testing set, in addition to confidence intervals generated by bootstrapping. Two of the inflammatory markers, LDH and C-reactive protein, exhibited the highest feature importance using a permutation test. Sensitivity analyses further demonstrated the utility of these inflammatory markers as additions to the baseline model. The authors make note of the limitations surrounding the generalizability to outpatient settings and the fairly high number of immunocompromised patients among the cases.</p>
+<p>Key strengths:</p>
+<p>1. This paper drew on previous literature to choose the most informative laboratory features to include in the model. All of the features in the model are commonly and easily obtained in the hospital setting, even in resource-poor areas.</p>
+<p>2. The authors reported a variety of related performance metrics that all demonstrated the algorithm’s ability to capture true positives and limit false negatives. This model performed very well, notable demonstrated by the AUROC, sensitivity, and NPV. Prioritizing sensitivity and NPV are of keen clinical importance in this context and especially during a pandemic.</p>
+<p>3. Finally, the authors used Python’s Scikit-learn package to perform the machine learning analyses, a highly accessible and open source software. They have agreed to make all of their code public and are in the process of creating a wed/mobile application for expanded use.</p>
+<p>Suggestions for improvement:</p>
+<p>1. Nearly 2000 patients who were tested for COVID-19 were excluded from this analysis due to incomplete laboratory measures. It would be helpful to provide some information or comments on why these patients did not have these particular lab measures, and if this may result in selection bias (for more severe cases). For example, were these excluded patients more likely to be negative or have mild cases of COVID-19? At a minimum, this limitation should be acknowledged.</p>
+<p>2. Relatedly, under study design in the Methods section, the authors note that their features were selected in part based on higher values in those with severe COVID-19. This should also be noted in the limitations, given that generalizability to patients with milder cases of COVID-19 is unclear.</p>
+<p>3. The authors provided no explanation for their choice of machine learning (ML) algorithms. Granted, the seven listed methods are all classification methods within Scikit-learn’s supervised machine learning models. It would nevertheless be useful to include a rationale or references for why these seven were specifically chosen.</p>
+<p>4. Lastly, the authors stated that “We compared seven machine learning models…” (Methods, Machine learning analysis) but provided no data, figures, or discussion on this ‘comparison’. An explanation or figure summarizing individual model performance would provide additional clarity to this statement.</p>
+<p>**********</p>
+<p>
+<p>If you choose “no”, your identity will remain anonymous but your review may still be made public.</p>
+<p>
+<p>Reviewer #1: No</p>
+<p>Reviewer #2: No</p>
+<p>
+<p>PONE-D-20-20126 </p>
+<p>A machine learning algorithm to increase COVID-19 inpatient diagnostic capacity </p>
+<p>Dear Dr. Goodman-Meza:</p>
+<p>I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now with our production department. </p>
+<p>
+<p>
+<p>Thank you for submitting your work to PLOS ONE and supporting open access. </p>
+<p>Kind regards, </p>
+<p>PLOS ONE Editorial Office Staff</p>
+<p>on behalf of</p>
+<p>Dr. Ryan J. Urbanowicz </p>
+<p>Academic Editor</p>
+<p>PLOS ONE</p>
